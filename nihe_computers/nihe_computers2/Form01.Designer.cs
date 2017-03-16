@@ -1998,7 +1998,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form01";
-            this.Text = "Учет оборудования 1";
+            this.Text = "Учет оборудования";
             this.contextMenuStripComputer.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.compEventDataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.eventBindingSource)).EndInit();

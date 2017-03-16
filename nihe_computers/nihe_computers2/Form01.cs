@@ -945,14 +945,6 @@ namespace nihe_computers2
             }
         }
 
-        private void testmethod1()
-        {
-        }
-
-        private void testmethod2()
-        {
-        }
-
         private void contextMenuStripComputer_Opening(object sender, CancelEventArgs e)
         {
             if (compDataGridView.SelectedRows.Count < 1)
