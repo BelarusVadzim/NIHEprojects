@@ -945,7 +945,11 @@ namespace nihe_computers2
             }
         }
 
-        private void testmethod()
+        private void testmethod1()
+        {
+        }
+
+        private void testmethod2()
         {
         }
 
