@@ -1,0 +1,970 @@
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc.mdf
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc_log.ldf
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form1.resources
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form2.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form3NewComp.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form4EventTypes.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form5ChangeValue.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form6RemoveComp.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc.mdf
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc_log.ldf
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form1.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form3NewComp.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form5ChangeValue.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form6RemoveComp.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form7CompInfo.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc.mdf
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc_log.ldf
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form1.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form3NewComp.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form5ChangeValue.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form6RemoveComp.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form7CompInfo.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+F:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form8Processor.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form8Processor.resources
+F:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form9RAM.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form9RAM.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form2SimpleTable.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form4OS.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+F:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+F:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form2SimpleTable.resources
+F:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form4OS.resources
+D:\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form1.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form2SimpleTable.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form3NewComp.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form4OS.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form5ChangeValue.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form6RemoveComp.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form7CompInfo.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form8Processor.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form9RAM.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc.mdf
+D:\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc_log.ldf
+D:\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160108\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160108\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160108\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\nihe\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\nihe\nihe_computers2\bin\Debug\nihe_pc.mdf
+D:\nihe\nihe_computers2\bin\Debug\nihe_pc_log.ldf
+D:\nihe\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\nihe\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\nihe\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\bin\Debug\nihe_pc.mdf
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\bin\Debug\nihe_pc_log.ldf
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160111_1542\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160111_1542\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160111_1542\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160111_1542\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160114\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160114\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160114\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160114\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160115\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160115\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160115\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160115\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160115\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160115\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160115\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160116\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160116\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160116\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160116\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160116_2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160116_2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160116_2\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160116_2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160116_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160117\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160117\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160117\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160117\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160118\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160118\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160118\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160118\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160122\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160122\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160122\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160122\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160124\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160124\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160124\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160124\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160125_2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160125_2\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160125_2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160125_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160126\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160126\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160126\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160126\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160126_2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160126_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160126_2\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160126_2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160127\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160127\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160127\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160127\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160129\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160129\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160129\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160129\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160129\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160129\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14ConnectComputerMonitor.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160129\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\20160131\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160211\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160211\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160211\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160211\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160212\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160212\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160212\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160212\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160214\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160214\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160214\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160214\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160214\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160214\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06CompRemove.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160214\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160214_3\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160214_3\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160214_3\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160214_3\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+f:\20160214_4\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160214_4\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160214_4\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160214_4\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160311\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160311\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160311\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160311\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160314\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160314\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160314\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160314\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\20160314_2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\20160314_2\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\20160314_2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\20160314_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160315\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160315\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160315\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160315\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160315_2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160315_2\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160315_2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160315_2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160330\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160330\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160330\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160330\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160331\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160331\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160331\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160331\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160414\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160414\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160414\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160414\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+f:\20160614\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\20160614\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\20160614\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+d:\20160614\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+d:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+d:\20160614\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+d:\20170208\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+d:\20170208\nihe_computers2\bin\Debug\nihe_computers2.exe
+d:\20170208\nihe_computers2\bin\Debug\nihe_computers2.pdb
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form01.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form10HDD.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form11MonitorModel.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form12MonitorAdd.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form02SimpleTable.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form03NewComp.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form04OS.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form05ChangeValue.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form06DeviceAdd.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form07CompInfo.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form08Processor.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form09RAM.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form13MonitorRemove.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form14Disconect.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form15Move.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Form16MonitorInfo.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+d:\20170208\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache

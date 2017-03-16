@@ -1,0 +1,53 @@
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc.mdf
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc_log.ldf
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form1.resources
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+c:\users\625_vadzim\documents\visual studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form2.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form3NewComp.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form4EventTypes.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form5ChangeValue.resources
+C:\Users\625_Vadzim\Documents\Visual Studio 2010\Projects\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form6RemoveComp.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc.mdf
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc_log.ldf
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form1.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form2.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form3NewComp.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form4EventTypes.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form5ChangeValue.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form6RemoveComp.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form7CompInfo.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe.config
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc.mdf
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_pc_log.ldf
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.exe
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\bin\Debug\nihe_computers2.pdb
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csprojResolveAssemblyReference.cache
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form1.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form2.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form3NewComp.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form4EventTypes.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form5ChangeValue.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form6RemoveComp.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form7CompInfo.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Properties.Resources.resources
+f:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.csproj.GenerateResource.Cache
+F:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form8Processor.resources
+D:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form8Processor.resources
+F:\GoogleDrive\04. Программирование\nihe_computers2\nihe_computers2\obj\x86\Debug\nihe_computers2.Form9RAM.resources
