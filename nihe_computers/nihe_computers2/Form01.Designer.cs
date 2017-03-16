@@ -193,6 +193,7 @@
             this.changeRoomToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.changeUserToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.changeDescriptionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.changeDepartmentToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.simpleDeviceBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.simpleDeviceEventDataGridView = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -223,7 +224,6 @@
             this.fKDepartmentCompBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.monitorEventBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.changeDepartmentToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStripComputer.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.compEventDataGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.eventBindingSource)).BeginInit();
@@ -1663,7 +1663,7 @@
             this.changeDescriptionToolStripMenuItem,
             this.changeDepartmentToolStripMenuItem});
             this.contextMenuSimpleDevices.Name = "contextMenuSimpleDevices";
-            this.contextMenuSimpleDevices.Size = new System.Drawing.Size(219, 158);
+            this.contextMenuSimpleDevices.Size = new System.Drawing.Size(219, 136);
             // 
             // AddSimpleDeviceMenuItem
             // 
@@ -1699,6 +1699,13 @@
             this.changeDescriptionToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
             this.changeDescriptionToolStripMenuItem.Text = "ChangeDescription";
             this.changeDescriptionToolStripMenuItem.Click += new System.EventHandler(this.changeDescriptionToolStripMenuItem_Click);
+            // 
+            // changeDepartmentToolStripMenuItem
+            // 
+            this.changeDepartmentToolStripMenuItem.Name = "changeDepartmentToolStripMenuItem";
+            this.changeDepartmentToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.changeDepartmentToolStripMenuItem.Text = "ChangeDepartment";
+            this.changeDepartmentToolStripMenuItem.Click += new System.EventHandler(this.changeDepartmentToolStripMenuItem_Click);
             // 
             // simpleDeviceBindingSource
             // 
@@ -1980,13 +1987,6 @@
             this.monitorEventBindingSource.DataSource = this.dS_NiheComputers;
             this.monitorEventBindingSource.Position = 0;
             // 
-            // changeDepartmentToolStripMenuItem
-            // 
-            this.changeDepartmentToolStripMenuItem.Name = "changeDepartmentToolStripMenuItem";
-            this.changeDepartmentToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
-            this.changeDepartmentToolStripMenuItem.Text = "ChangeDepartment";
-            this.changeDepartmentToolStripMenuItem.Click += new System.EventHandler(this.changeDepartmentToolStripMenuItem_Click);
-            // 
             // Form01
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1998,7 +1998,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form01";
-            this.Text = "Учет оборудования";
+            this.Text = "Учет оборудования 1";
             this.contextMenuStripComputer.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.compEventDataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.eventBindingSource)).EndInit();
