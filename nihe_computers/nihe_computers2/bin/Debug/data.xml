@@ -9558,6 +9558,28 @@
     <ComputerNumber>01360822</ComputerNumber>
     <ComputerID>204</ComputerID>
   </EventComp>
+  <EventComp>
+    <ID>574</ID>
+    <Date>2017-07-21T16:21:58.0408669+03:00</Date>
+    <Info>Пользователь: Лазун---&gt;Лазун1</Info>
+    <CompGUID>cb1f8f56-d090-45ba-9c8b-a627080f87e0</CompGUID>
+    <ExtendedInfo />
+    <CompText>803_pc5</CompText>
+    <EventName>Изменение поьзоватяеля</EventName>
+    <ComputerNumber>01360924</ComputerNumber>
+    <ComputerID>1</ComputerID>
+  </EventComp>
+  <EventComp>
+    <ID>575</ID>
+    <Date>2017-07-21T16:22:37.3975098+03:00</Date>
+    <Info>Пользователь: Лазун1---&gt;Лазун</Info>
+    <CompGUID>cb1f8f56-d090-45ba-9c8b-a627080f87e0</CompGUID>
+    <ExtendedInfo />
+    <CompText>803_pc5</CompText>
+    <EventName>Изменение поьзоватяеля</EventName>
+    <ComputerNumber>01360924</ComputerNumber>
+    <ComputerID>1</ComputerID>
+  </EventComp>
   <Processor>
     <ID>1</ID>
     <Name>Нетвестн.</Name>
@@ -9907,7 +9929,7 @@
     <SocketID>15</SocketID>
     <VendorID>2</VendorID>
     <FullName>INTEL Pentium 3 1ГГц Slot 1</FullName>
-    <Sort>45</Sort>
+    <Sort>38</Sort>
   </Processor>
   <Vendor>
     <id>1</id>
@@ -10132,7 +10154,7 @@
   <Socket>
     <ID>15</ID>
     <Name>Slot 1</Name>
-    <Sort>19</Sort>
+    <Sort>14</Sort>
   </Socket>
   <Department>
     <ID>1</ID>
@@ -10516,7 +10538,7 @@
     <Size>1</Size>
     <RAMTypeID>2</RAMTypeID>
     <FullName>1Гб SDRAM</FullName>
-    <Sort>13</Sort>
+    <Sort>9</Sort>
   </RAM>
   <OS>
     <ID>1</ID>
@@ -11184,7 +11206,7 @@
     <Size>19</Size>
     <Wide>false</Wide>
     <FullName>Philips 19B1CB 19" </FullName>
-    <Sort>49</Sort>
+    <Sort>43</Sort>
   </MonitorModel>
   <Monitor>
     <ID>1</ID>

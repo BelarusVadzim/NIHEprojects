@@ -37,12 +37,12 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
             this.contextMenuStripComputer = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.информацияToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
@@ -79,12 +79,30 @@
             this.eventBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.dS_NiheComputers = new nihe_computers2.DS_NiheComputers();
             this.compDataGridView = new nihe_computers2.DataGridViewEx();
+            this.iDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.departmentIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.departmentBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.roomDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.numDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FullName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.userDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.oSIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.oSBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.gUIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.deletedDataGridViewCheckBoxColumn = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.rAMIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.rAMBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.hDDIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.hDDBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.processorIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.processorBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.MonitorGUID = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.monitorBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.PurchaseDate = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.WarantyDate = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Description = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Rating = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.compBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.eventTypeBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.vendorBindingSource = new System.Windows.Forms.BindingSource(this.components);
@@ -206,24 +224,6 @@
             this.fKDepartmentCompBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.monitorEventBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.iDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.departmentIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.roomDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.numDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.FullName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.userDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.oSIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.gUIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.deletedDataGridViewCheckBoxColumn = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.rAMIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.hDDIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.processorIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.MonitorGUID = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.PurchaseDate = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.WarantyDate = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Description = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Rating = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.contextMenuStripComputer.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.compEventDataGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.eventBindingSource)).BeginInit();
@@ -286,7 +286,7 @@
             this.contextMenuStripComputer.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.HorizontalStackWithOverflow;
             this.contextMenuStripComputer.Name = "contextMenuStrip1";
             this.contextMenuStripComputer.Size = new System.Drawing.Size(231, 192);
-            this.contextMenuStripComputer.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStripComputer_Opening);
+            this.contextMenuStripComputer.Opening += new System.ComponentModel.CancelEventHandler(this.ContextMenuStripComputer_Opening);
             // 
             // информацияToolStripMenuItem
             // 
@@ -426,7 +426,7 @@
             this.monitorToolStripMenuItem.Name = "monitorToolStripMenuItem";
             this.monitorToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.monitorToolStripMenuItem.Text = "Подключить монитор";
-            this.monitorToolStripMenuItem.Click += new System.EventHandler(this.monitorToolStripMenuItem_Click);
+            this.monitorToolStripMenuItem.Click += new System.EventHandler(this.MonitorToolStripMenuItem_Click);
             // 
             // disconnectMonitorToolStripMenuItem
             // 
@@ -434,14 +434,14 @@
             this.disconnectMonitorToolStripMenuItem.Name = "disconnectMonitorToolStripMenuItem";
             this.disconnectMonitorToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.disconnectMonitorToolStripMenuItem.Text = "Отключить монитор";
-            this.disconnectMonitorToolStripMenuItem.Click += new System.EventHandler(this.disconnectMonitorToolStripMenuItem_Click);
+            this.disconnectMonitorToolStripMenuItem.Click += new System.EventHandler(this.DisconnectMonitorToolStripMenuItem_Click);
             // 
             // simpleEditToolStripMenuItem
             // 
             this.simpleEditToolStripMenuItem.Name = "simpleEditToolStripMenuItem";
             this.simpleEditToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.simpleEditToolStripMenuItem.Text = "SimpleEdit";
-            this.simpleEditToolStripMenuItem.Click += new System.EventHandler(this.simpleEditToolStripMenuItem_Click);
+            this.simpleEditToolStripMenuItem.Click += new System.EventHandler(this.SimpleEditToolStripMenuItem_Click);
             // 
             // создатьНовыйToolStripMenuItem
             // 
@@ -462,21 +462,21 @@
             this.сохрнаитьToolStripMenuItem.Name = "сохрнаитьToolStripMenuItem";
             this.сохрнаитьToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.сохрнаитьToolStripMenuItem.Text = "Сохрнаить";
-            this.сохрнаитьToolStripMenuItem.Click += new System.EventHandler(this.сохрнаитьToolStripMenuItem_Click);
+            this.сохрнаитьToolStripMenuItem.Click += new System.EventHandler(this.СохрнаитьToolStripMenuItem_Click);
             // 
             // copyToolStripMenuItem
             // 
             this.copyToolStripMenuItem.Name = "copyToolStripMenuItem";
             this.copyToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.copyToolStripMenuItem.Text = "Copy";
-            this.copyToolStripMenuItem.Click += new System.EventHandler(this.copyToolStripMenuItem_Click);
+            this.copyToolStripMenuItem.Click += new System.EventHandler(this.CopyToolStripMenuItem_Click);
             // 
             // descriptionToolStripMenuItem
             // 
             this.descriptionToolStripMenuItem.Name = "descriptionToolStripMenuItem";
             this.descriptionToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.descriptionToolStripMenuItem.Text = "Description";
-            this.descriptionToolStripMenuItem.Click += new System.EventHandler(this.descriptionToolStripMenuItem_Click);
+            this.descriptionToolStripMenuItem.Click += new System.EventHandler(this.DescriptionToolStripMenuItem_Click);
             // 
             // compEventDataGridView
             // 
@@ -519,7 +519,7 @@
             this.compEventDataGridView.RowHeadersVisible = false;
             this.compEventDataGridView.Size = new System.Drawing.Size(1067, 124);
             this.compEventDataGridView.TabIndex = 6;
-            this.compEventDataGridView.Enter += new System.EventHandler(this.compEventDataGridView_Enter);
+            this.compEventDataGridView.Enter += new System.EventHandler(this.CompEventDataGridView_Enter);
             // 
             // iDDataGridViewTextBoxColumn1
             // 
@@ -654,40 +654,209 @@
             this.compDataGridView.RowTemplate.Height = 24;
             this.compDataGridView.Size = new System.Drawing.Size(1067, 207);
             this.compDataGridView.TabIndex = 8;
-            this.compDataGridView.CellPainting += new System.Windows.Forms.DataGridViewCellPaintingEventHandler(this.compDataGridView_CellPainting);
-            this.compDataGridView.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.compDataGridView_DataError);
-            this.compDataGridView.Enter += new System.EventHandler(this.compDataGridView_Enter);
-            this.compDataGridView.MouseDown += new System.Windows.Forms.MouseEventHandler(this.compDataGridView_MouseDown);
+            this.compDataGridView.CellPainting += new System.Windows.Forms.DataGridViewCellPaintingEventHandler(this.CompDataGridView_CellPainting);
+            this.compDataGridView.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.CompDataGridView_DataError);
+            this.compDataGridView.Enter += new System.EventHandler(this.CompDataGridView_Enter);
+            this.compDataGridView.MouseDown += new System.Windows.Forms.MouseEventHandler(this.CompDataGridView_MouseDown);
+            // 
+            // iDDataGridViewTextBoxColumn
+            // 
+            this.iDDataGridViewTextBoxColumn.DataPropertyName = "ID";
+            this.iDDataGridViewTextBoxColumn.FillWeight = 30F;
+            this.iDDataGridViewTextBoxColumn.HeaderText = "ID";
+            this.iDDataGridViewTextBoxColumn.Name = "iDDataGridViewTextBoxColumn";
+            // 
+            // departmentIDDataGridViewTextBoxColumn
+            // 
+            this.departmentIDDataGridViewTextBoxColumn.DataPropertyName = "DepartmentID";
+            this.departmentIDDataGridViewTextBoxColumn.DataSource = this.departmentBindingSource;
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.departmentIDDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle7;
+            this.departmentIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.departmentIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.departmentIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.departmentIDDataGridViewTextBoxColumn.HeaderText = "Отдел";
+            this.departmentIDDataGridViewTextBoxColumn.Name = "departmentIDDataGridViewTextBoxColumn";
+            this.departmentIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.departmentIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.departmentIDDataGridViewTextBoxColumn.ValueMember = "ID";
             // 
             // departmentBindingSource
             // 
             this.departmentBindingSource.DataMember = "Department";
             this.departmentBindingSource.DataSource = this.dS_NiheComputers;
             // 
+            // roomDataGridViewTextBoxColumn
+            // 
+            this.roomDataGridViewTextBoxColumn.DataPropertyName = "Room";
+            this.roomDataGridViewTextBoxColumn.FillWeight = 25F;
+            this.roomDataGridViewTextBoxColumn.HeaderText = "Каб.";
+            this.roomDataGridViewTextBoxColumn.Name = "roomDataGridViewTextBoxColumn";
+            // 
+            // numDataGridViewTextBoxColumn
+            // 
+            this.numDataGridViewTextBoxColumn.DataPropertyName = "Num";
+            this.numDataGridViewTextBoxColumn.FillWeight = 40F;
+            this.numDataGridViewTextBoxColumn.HeaderText = "Инвент. №";
+            this.numDataGridViewTextBoxColumn.Name = "numDataGridViewTextBoxColumn";
+            // 
+            // FullName
+            // 
+            this.FullName.DataPropertyName = "FullName";
+            this.FullName.FillWeight = 140F;
+            this.FullName.HeaderText = "Компьютер";
+            this.FullName.Name = "FullName";
+            this.FullName.ReadOnly = true;
+            // 
+            // nameDataGridViewTextBoxColumn
+            // 
+            this.nameDataGridViewTextBoxColumn.DataPropertyName = "Name";
+            this.nameDataGridViewTextBoxColumn.FillWeight = 60F;
+            this.nameDataGridViewTextBoxColumn.HeaderText = "Имя компьютера";
+            this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
+            // 
+            // userDataGridViewTextBoxColumn
+            // 
+            this.userDataGridViewTextBoxColumn.DataPropertyName = "User";
+            this.userDataGridViewTextBoxColumn.FillWeight = 60F;
+            this.userDataGridViewTextBoxColumn.HeaderText = "Пользователь";
+            this.userDataGridViewTextBoxColumn.Name = "userDataGridViewTextBoxColumn";
+            // 
+            // oSIDDataGridViewTextBoxColumn
+            // 
+            this.oSIDDataGridViewTextBoxColumn.DataPropertyName = "OSID";
+            this.oSIDDataGridViewTextBoxColumn.DataSource = this.oSBindingSource;
+            this.oSIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.oSIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.oSIDDataGridViewTextBoxColumn.FillWeight = 80F;
+            this.oSIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.oSIDDataGridViewTextBoxColumn.HeaderText = "ОС";
+            this.oSIDDataGridViewTextBoxColumn.Name = "oSIDDataGridViewTextBoxColumn";
+            this.oSIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.oSIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.oSIDDataGridViewTextBoxColumn.ValueMember = "ID";
+            // 
             // oSBindingSource
             // 
             this.oSBindingSource.DataMember = "OS";
             this.oSBindingSource.DataSource = this.dS_NiheComputers;
+            // 
+            // gUIDDataGridViewTextBoxColumn
+            // 
+            this.gUIDDataGridViewTextBoxColumn.DataPropertyName = "GUID";
+            this.gUIDDataGridViewTextBoxColumn.HeaderText = "GUID";
+            this.gUIDDataGridViewTextBoxColumn.Name = "gUIDDataGridViewTextBoxColumn";
+            this.gUIDDataGridViewTextBoxColumn.Visible = false;
+            // 
+            // deletedDataGridViewCheckBoxColumn
+            // 
+            this.deletedDataGridViewCheckBoxColumn.DataPropertyName = "Deleted";
+            this.deletedDataGridViewCheckBoxColumn.HeaderText = "Списан";
+            this.deletedDataGridViewCheckBoxColumn.Name = "deletedDataGridViewCheckBoxColumn";
+            this.deletedDataGridViewCheckBoxColumn.Visible = false;
+            // 
+            // rAMIDDataGridViewTextBoxColumn
+            // 
+            this.rAMIDDataGridViewTextBoxColumn.DataPropertyName = "RAMID";
+            this.rAMIDDataGridViewTextBoxColumn.DataSource = this.rAMBindingSource;
+            this.rAMIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.rAMIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.rAMIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.rAMIDDataGridViewTextBoxColumn.HeaderText = "ОЗУ";
+            this.rAMIDDataGridViewTextBoxColumn.Name = "rAMIDDataGridViewTextBoxColumn";
+            this.rAMIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.rAMIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.rAMIDDataGridViewTextBoxColumn.ValueMember = "ID";
+            this.rAMIDDataGridViewTextBoxColumn.Visible = false;
             // 
             // rAMBindingSource
             // 
             this.rAMBindingSource.DataMember = "RAM";
             this.rAMBindingSource.DataSource = this.dS_NiheComputers;
             // 
+            // hDDIDDataGridViewTextBoxColumn
+            // 
+            this.hDDIDDataGridViewTextBoxColumn.DataPropertyName = "HDDID";
+            this.hDDIDDataGridViewTextBoxColumn.DataSource = this.hDDBindingSource;
+            this.hDDIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.hDDIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.hDDIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.hDDIDDataGridViewTextBoxColumn.HeaderText = "Жесткий диск";
+            this.hDDIDDataGridViewTextBoxColumn.Name = "hDDIDDataGridViewTextBoxColumn";
+            this.hDDIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.hDDIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.hDDIDDataGridViewTextBoxColumn.ValueMember = "ID";
+            this.hDDIDDataGridViewTextBoxColumn.Visible = false;
+            // 
             // hDDBindingSource
             // 
             this.hDDBindingSource.DataMember = "HDD";
             this.hDDBindingSource.DataSource = this.dS_NiheComputers;
+            // 
+            // processorIDDataGridViewTextBoxColumn
+            // 
+            this.processorIDDataGridViewTextBoxColumn.DataPropertyName = "ProcessorID";
+            this.processorIDDataGridViewTextBoxColumn.DataSource = this.processorBindingSource;
+            this.processorIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.processorIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.processorIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.processorIDDataGridViewTextBoxColumn.HeaderText = "ЦП";
+            this.processorIDDataGridViewTextBoxColumn.Name = "processorIDDataGridViewTextBoxColumn";
+            this.processorIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.processorIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.processorIDDataGridViewTextBoxColumn.ValueMember = "ID";
+            this.processorIDDataGridViewTextBoxColumn.Visible = false;
             // 
             // processorBindingSource
             // 
             this.processorBindingSource.DataMember = "Processor";
             this.processorBindingSource.DataSource = this.dS_NiheComputers;
             // 
+            // MonitorGUID
+            // 
+            this.MonitorGUID.DataPropertyName = "MonitorGUID";
+            this.MonitorGUID.DataSource = this.monitorBindingSource;
+            this.MonitorGUID.DisplayMember = "FullName";
+            this.MonitorGUID.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.MonitorGUID.FillWeight = 60F;
+            this.MonitorGUID.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.MonitorGUID.HeaderText = "Монитор";
+            this.MonitorGUID.Name = "MonitorGUID";
+            this.MonitorGUID.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.MonitorGUID.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.MonitorGUID.ValueMember = "GUID";
+            // 
             // monitorBindingSource
             // 
             this.monitorBindingSource.DataMember = "Monitor";
             this.monitorBindingSource.DataSource = this.dS_NiheComputers;
+            // 
+            // PurchaseDate
+            // 
+            this.PurchaseDate.DataPropertyName = "PurchaseDate";
+            this.PurchaseDate.HeaderText = "Дата поступления";
+            this.PurchaseDate.Name = "PurchaseDate";
+            this.PurchaseDate.Visible = false;
+            // 
+            // WarantyDate
+            // 
+            this.WarantyDate.DataPropertyName = "WarantyDate";
+            this.WarantyDate.HeaderText = "Дата истечения гарантии";
+            this.WarantyDate.Name = "WarantyDate";
+            this.WarantyDate.Visible = false;
+            // 
+            // Description
+            // 
+            this.Description.DataPropertyName = "Description";
+            this.Description.HeaderText = "Описание";
+            this.Description.Name = "Description";
+            // 
+            // Rating
+            // 
+            this.Rating.DataPropertyName = "Rating";
+            this.Rating.FillWeight = 50F;
+            this.Rating.HeaderText = "Рейтинг";
+            this.Rating.Name = "Rating";
             // 
             // compBindingSource
             // 
@@ -708,7 +877,7 @@
             this.checkBox1.TabIndex = 22;
             this.checkBox1.Text = "Показать списанные";
             this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.CheckBox1_CheckedChanged);
             // 
             // menuStrip1
             // 
@@ -749,7 +918,7 @@
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
             this.saveToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
             this.saveToolStripMenuItem.Text = "Save";
-            this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
+            this.saveToolStripMenuItem.Click += new System.EventHandler(this.SaveToolStripMenuItem_Click);
             // 
             // спраочникиToolStripMenuItem
             // 
@@ -768,14 +937,14 @@
             this.отделыToolStripMenuItem.Name = "отделыToolStripMenuItem";
             this.отделыToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.отделыToolStripMenuItem.Text = "Отделы";
-            this.отделыToolStripMenuItem.Click += new System.EventHandler(this.отделыToolStripMenuItem_Click);
+            this.отделыToolStripMenuItem.Click += new System.EventHandler(this.ОтделыToolStripMenuItem_Click);
             // 
             // производителиToolStripMenuItem
             // 
             this.производителиToolStripMenuItem.Name = "производителиToolStripMenuItem";
             this.производителиToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.производителиToolStripMenuItem.Text = "Производители";
-            this.производителиToolStripMenuItem.Click += new System.EventHandler(this.производителиToolStripMenuItem_Click);
+            this.производителиToolStripMenuItem.Click += new System.EventHandler(this.ПроизводителиToolStripMenuItem_Click);
             // 
             // CompDevicesToolStripMenuItem
             // 
@@ -795,14 +964,14 @@
             this.жесткиеДискиToolStripMenuItem.Name = "жесткиеДискиToolStripMenuItem";
             this.жесткиеДискиToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.жесткиеДискиToolStripMenuItem.Text = "Жесткие диски";
-            this.жесткиеДискиToolStripMenuItem.Click += new System.EventHandler(this.жесткиеДискиToolStripMenuItem_Click);
+            this.жесткиеДискиToolStripMenuItem.Click += new System.EventHandler(this.ЖесткиеДискиToolStripMenuItem_Click);
             // 
             // типыЖДToolStripMenuItem
             // 
             this.типыЖДToolStripMenuItem.Name = "типыЖДToolStripMenuItem";
             this.типыЖДToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
             this.типыЖДToolStripMenuItem.Text = "Типы ЖД";
-            this.типыЖДToolStripMenuItem.Click += new System.EventHandler(this.типыЖДToolStripMenuItem_Click);
+            this.типыЖДToolStripMenuItem.Click += new System.EventHandler(this.ТипыЖДToolStripMenuItem_Click);
             // 
             // процессорыToolStripMenuItem
             // 
@@ -811,14 +980,14 @@
             this.процессорыToolStripMenuItem.Name = "процессорыToolStripMenuItem";
             this.процессорыToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.процессорыToolStripMenuItem.Text = "Процессоры";
-            this.процессорыToolStripMenuItem.Click += new System.EventHandler(this.процессорыToolStripMenuItem_Click);
+            this.процессорыToolStripMenuItem.Click += new System.EventHandler(this.ПроцессорыToolStripMenuItem_Click);
             // 
             // сокетыToolStripMenuItem
             // 
             this.сокетыToolStripMenuItem.Name = "сокетыToolStripMenuItem";
             this.сокетыToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
             this.сокетыToolStripMenuItem.Text = "Сокеты";
-            this.сокетыToolStripMenuItem.Click += new System.EventHandler(this.сокетыToolStripMenuItem_Click);
+            this.сокетыToolStripMenuItem.Click += new System.EventHandler(this.СокетыToolStripMenuItem_Click);
             // 
             // оЗУToolStripMenuItem1
             // 
@@ -827,14 +996,14 @@
             this.оЗУToolStripMenuItem1.Name = "оЗУToolStripMenuItem1";
             this.оЗУToolStripMenuItem1.Size = new System.Drawing.Size(204, 22);
             this.оЗУToolStripMenuItem1.Text = "ОЗУ";
-            this.оЗУToolStripMenuItem1.Click += new System.EventHandler(this.оЗУToolStripMenuItem1_Click);
+            this.оЗУToolStripMenuItem1.Click += new System.EventHandler(this.ОЗУToolStripMenuItem1_Click);
             // 
             // типыОЗУToolStripMenuItem
             // 
             this.типыОЗУToolStripMenuItem.Name = "типыОЗУToolStripMenuItem";
             this.типыОЗУToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
             this.типыОЗУToolStripMenuItem.Text = "Типы ОЗУ";
-            this.типыОЗУToolStripMenuItem.Click += new System.EventHandler(this.типыОЗУToolStripMenuItem_Click);
+            this.типыОЗУToolStripMenuItem.Click += new System.EventHandler(this.ТипыОЗУToolStripMenuItem_Click);
             // 
             // операционнаяСистемаToolStripMenuItem1
             // 
@@ -844,21 +1013,21 @@
             this.операционнаяСистемаToolStripMenuItem1.Name = "операционнаяСистемаToolStripMenuItem1";
             this.операционнаяСистемаToolStripMenuItem1.Size = new System.Drawing.Size(204, 22);
             this.операционнаяСистемаToolStripMenuItem1.Text = "Операционная система";
-            this.операционнаяСистемаToolStripMenuItem1.Click += new System.EventHandler(this.операционнаяСистемаToolStripMenuItem1_Click);
+            this.операционнаяСистемаToolStripMenuItem1.Click += new System.EventHandler(this.ОперационнаяСистемаToolStripMenuItem1_Click);
             // 
             // разрядностьToolStripMenuItem
             // 
             this.разрядностьToolStripMenuItem.Name = "разрядностьToolStripMenuItem";
             this.разрядностьToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.разрядностьToolStripMenuItem.Text = "Разрядность";
-            this.разрядностьToolStripMenuItem.Click += new System.EventHandler(this.разрядностьToolStripMenuItem_Click);
+            this.разрядностьToolStripMenuItem.Click += new System.EventHandler(this.РазрядностьToolStripMenuItem_Click);
             // 
             // версияToolStripMenuItem
             // 
             this.версияToolStripMenuItem.Name = "версияToolStripMenuItem";
             this.версияToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.версияToolStripMenuItem.Text = "Версия";
-            this.версияToolStripMenuItem.Click += new System.EventHandler(this.версияToolStripMenuItem_Click);
+            this.версияToolStripMenuItem.Click += new System.EventHandler(this.ВерсияToolStripMenuItem_Click);
             // 
             // мониторыToolStripMenuItem
             // 
@@ -873,7 +1042,7 @@
             this.моделиМониторовToolStripMenuItem.Name = "моделиМониторовToolStripMenuItem";
             this.моделиМониторовToolStripMenuItem.Size = new System.Drawing.Size(183, 22);
             this.моделиМониторовToolStripMenuItem.Text = "Модели мониторов";
-            this.моделиМониторовToolStripMenuItem.Click += new System.EventHandler(this.моделиМониторовToolStripMenuItem_Click);
+            this.моделиМониторовToolStripMenuItem.Click += new System.EventHandler(this.МоделиМониторовToolStripMenuItem_Click);
             // 
             // принтерыToolStripMenuItem
             // 
@@ -889,7 +1058,7 @@
             this.типыПринтеровToolStripMenuItem.Name = "типыПринтеровToolStripMenuItem";
             this.типыПринтеровToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.типыПринтеровToolStripMenuItem.Text = "Типы принтеров";
-            this.типыПринтеровToolStripMenuItem.Click += new System.EventHandler(this.типыПринтеровToolStripMenuItem_Click);
+            this.типыПринтеровToolStripMenuItem.Click += new System.EventHandler(this.ТипыПринтеровToolStripMenuItem_Click);
             // 
             // настройкиToolStripMenuItem
             // 
@@ -904,7 +1073,7 @@
             this.AlloouEditEventsToolStripMenuItem.Name = "AlloouEditEventsToolStripMenuItem";
             this.AlloouEditEventsToolStripMenuItem.Size = new System.Drawing.Size(267, 22);
             this.AlloouEditEventsToolStripMenuItem.Text = "Разрешить редактировать события";
-            this.AlloouEditEventsToolStripMenuItem.Click += new System.EventHandler(this.allouEditEventToolStripMenuItem_Click);
+            this.AlloouEditEventsToolStripMenuItem.Click += new System.EventHandler(this.AllouEditEventToolStripMenuItem_Click);
             // 
             // tabControl1
             // 
@@ -1019,10 +1188,10 @@
             this.monitorDataGridView.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.monitorDataGridView.Size = new System.Drawing.Size(1067, 166);
             this.monitorDataGridView.TabIndex = 0;
-            this.monitorDataGridView.CellPainting += new System.Windows.Forms.DataGridViewCellPaintingEventHandler(this.monitorDataGridView_CellPainting);
-            this.monitorDataGridView.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.monitorDataGridView_DataError);
-            this.monitorDataGridView.Enter += new System.EventHandler(this.monitorDataGridView_Enter);
-            this.monitorDataGridView.MouseDown += new System.Windows.Forms.MouseEventHandler(this.monitorDataGridView_MouseDown);
+            this.monitorDataGridView.CellPainting += new System.Windows.Forms.DataGridViewCellPaintingEventHandler(this.MonitorDataGridView_CellPainting);
+            this.monitorDataGridView.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.MonitorDataGridView_DataError);
+            this.monitorDataGridView.Enter += new System.EventHandler(this.MonitorDataGridView_Enter);
+            this.monitorDataGridView.MouseDown += new System.Windows.Forms.MouseEventHandler(this.MonitorDataGridView_MouseDown);
             // 
             // dataGridViewTextBoxColumn1
             // 
@@ -1140,7 +1309,7 @@
             this.infoToolStripMenuItem.Name = "infoToolStripMenuItem";
             this.infoToolStripMenuItem.Size = new System.Drawing.Size(290, 22);
             this.infoToolStripMenuItem.Text = "Информация о мониторе";
-            this.infoToolStripMenuItem.Click += new System.EventHandler(this.infoToolStripMenuItem_Click);
+            this.infoToolStripMenuItem.Click += new System.EventHandler(this.InfoToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
@@ -1191,7 +1360,7 @@
             this.numberToolStripMenuItem.Name = "numberToolStripMenuItem";
             this.numberToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.numberToolStripMenuItem.Text = "Инвентарный номер";
-            this.numberToolStripMenuItem.Click += new System.EventHandler(this.numberToolStripMenuItem_Click);
+            this.numberToolStripMenuItem.Click += new System.EventHandler(this.NumberToolStripMenuItem_Click);
             // 
             // modelToolStripMenuItem
             // 
@@ -1199,7 +1368,7 @@
             this.modelToolStripMenuItem.Name = "modelToolStripMenuItem";
             this.modelToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.modelToolStripMenuItem.Text = "Модель";
-            this.modelToolStripMenuItem.Click += new System.EventHandler(this.modelToolStripMenuItem_Click);
+            this.modelToolStripMenuItem.Click += new System.EventHandler(this.ModelToolStripMenuItem_Click);
             // 
             // computerToolStripMenuItem
             // 
@@ -1207,7 +1376,7 @@
             this.computerToolStripMenuItem.Name = "computerToolStripMenuItem";
             this.computerToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.computerToolStripMenuItem.Text = "Подключить к компьютеру";
-            this.computerToolStripMenuItem.Click += new System.EventHandler(this.computerToolStripMenuItem_Click);
+            this.computerToolStripMenuItem.Click += new System.EventHandler(this.ComputerToolStripMenuItem_Click);
             // 
             // отключитьОтКомпьютераToolStripMenuItem
             // 
@@ -1215,7 +1384,7 @@
             this.отключитьОтКомпьютераToolStripMenuItem.Name = "отключитьОтКомпьютераToolStripMenuItem";
             this.отключитьОтКомпьютераToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.отключитьОтКомпьютераToolStripMenuItem.Text = "Отключить от компьютера";
-            this.отключитьОтКомпьютераToolStripMenuItem.Click += new System.EventHandler(this.отключитьОтКомпьютераToolStripMenuItem_Click);
+            this.отключитьОтКомпьютераToolStripMenuItem.Click += new System.EventHandler(this.ОтключитьОтКомпьютераToolStripMenuItem_Click);
             // 
             // RemoveToolStripMenuItem1
             // 
@@ -1230,7 +1399,7 @@
             this.moveMonitorToolStripMenuItem.Name = "moveMonitorToolStripMenuItem";
             this.moveMonitorToolStripMenuItem.Size = new System.Drawing.Size(290, 22);
             this.moveMonitorToolStripMenuItem.Text = "MoveMonitor";
-            this.moveMonitorToolStripMenuItem.Click += new System.EventHandler(this.moveMonitorToolStripMenuItem_Click);
+            this.moveMonitorToolStripMenuItem.Click += new System.EventHandler(this.MoveMonitorToolStripMenuItem_Click);
             // 
             // monitorEventDataGridView
             // 
@@ -1262,8 +1431,8 @@
             this.monitorEventDataGridView.RowTemplate.Height = 24;
             this.monitorEventDataGridView.Size = new System.Drawing.Size(1067, 165);
             this.monitorEventDataGridView.TabIndex = 2;
-            this.monitorEventDataGridView.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.monitorEventDataGridView_DataError);
-            this.monitorEventDataGridView.Enter += new System.EventHandler(this.monitorEventDataGridView_Enter);
+            this.monitorEventDataGridView.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.MonitorEventDataGridView_DataError);
+            this.monitorEventDataGridView.Enter += new System.EventHandler(this.MonitorEventDataGridView_Enter);
             // 
             // iDDataGridViewTextBoxColumn2
             // 
@@ -1329,7 +1498,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
             // tabPage4
             // 
@@ -1508,35 +1677,35 @@
             this.changeNumberToolStripMenuItem.Name = "changeNumberToolStripMenuItem";
             this.changeNumberToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeNumberToolStripMenuItem.Text = "ChangeNumber";
-            this.changeNumberToolStripMenuItem.Click += new System.EventHandler(this.changeNumberToolStripMenuItem_Click);
+            this.changeNumberToolStripMenuItem.Click += new System.EventHandler(this.ChangeNumberToolStripMenuItem_Click);
             // 
             // changeRoomToolStripMenuItem
             // 
             this.changeRoomToolStripMenuItem.Name = "changeRoomToolStripMenuItem";
             this.changeRoomToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeRoomToolStripMenuItem.Text = "ChangeRoom";
-            this.changeRoomToolStripMenuItem.Click += new System.EventHandler(this.changeRoomToolStripMenuItem_Click);
+            this.changeRoomToolStripMenuItem.Click += new System.EventHandler(this.ChangeRoomToolStripMenuItem_Click);
             // 
             // changeUserToolStripMenuItem
             // 
             this.changeUserToolStripMenuItem.Name = "changeUserToolStripMenuItem";
             this.changeUserToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeUserToolStripMenuItem.Text = "ChangeUser";
-            this.changeUserToolStripMenuItem.Click += new System.EventHandler(this.changeUserToolStripMenuItem_Click);
+            this.changeUserToolStripMenuItem.Click += new System.EventHandler(this.ChangeUserToolStripMenuItem_Click);
             // 
             // changeDescriptionToolStripMenuItem
             // 
             this.changeDescriptionToolStripMenuItem.Name = "changeDescriptionToolStripMenuItem";
             this.changeDescriptionToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeDescriptionToolStripMenuItem.Text = "ChangeDescription";
-            this.changeDescriptionToolStripMenuItem.Click += new System.EventHandler(this.changeDescriptionToolStripMenuItem_Click);
+            this.changeDescriptionToolStripMenuItem.Click += new System.EventHandler(this.ChangeDescriptionToolStripMenuItem_Click);
             // 
             // changeDepartmentToolStripMenuItem
             // 
             this.changeDepartmentToolStripMenuItem.Name = "changeDepartmentToolStripMenuItem";
             this.changeDepartmentToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeDepartmentToolStripMenuItem.Text = "ChangeDepartment";
-            this.changeDepartmentToolStripMenuItem.Click += new System.EventHandler(this.changeDepartmentToolStripMenuItem_Click);
+            this.changeDepartmentToolStripMenuItem.Click += new System.EventHandler(this.ChangeDepartmentToolStripMenuItem_Click);
             // 
             // simpleDeviceBindingSource
             // 
@@ -1655,7 +1824,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 27;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.textBox1.TextChanged += new System.EventHandler(this.TextBox1_TextChanged);
             // 
             // bindingNavigator1
             // 
@@ -1781,7 +1950,7 @@
             this.checkBox3.TabIndex = 25;
             this.checkBox3.Text = "Показать скрытые столбцы";
             this.checkBox3.UseVisualStyleBackColor = true;
-            this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox3_CheckedChanged);
+            this.checkBox3.CheckedChanged += new System.EventHandler(this.CheckBox3_CheckedChanged);
             // 
             // cbDepartment
             // 
@@ -1811,181 +1980,12 @@
             this.checkBox2.TabIndex = 24;
             this.checkBox2.Text = "Отдел";
             this.checkBox2.UseVisualStyleBackColor = true;
-            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.CheckBox2_CheckedChanged);
             // 
             // monitorEventBindingSource
             // 
             this.monitorEventBindingSource.DataSource = this.dS_NiheComputers;
             this.monitorEventBindingSource.Position = 0;
-            // 
-            // iDDataGridViewTextBoxColumn
-            // 
-            this.iDDataGridViewTextBoxColumn.DataPropertyName = "ID";
-            this.iDDataGridViewTextBoxColumn.FillWeight = 30F;
-            this.iDDataGridViewTextBoxColumn.HeaderText = "ID";
-            this.iDDataGridViewTextBoxColumn.Name = "iDDataGridViewTextBoxColumn";
-            // 
-            // departmentIDDataGridViewTextBoxColumn
-            // 
-            this.departmentIDDataGridViewTextBoxColumn.DataPropertyName = "DepartmentID";
-            this.departmentIDDataGridViewTextBoxColumn.DataSource = this.departmentBindingSource;
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.departmentIDDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle7;
-            this.departmentIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.departmentIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.departmentIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.departmentIDDataGridViewTextBoxColumn.HeaderText = "Отдел";
-            this.departmentIDDataGridViewTextBoxColumn.Name = "departmentIDDataGridViewTextBoxColumn";
-            this.departmentIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.departmentIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.departmentIDDataGridViewTextBoxColumn.ValueMember = "ID";
-            // 
-            // roomDataGridViewTextBoxColumn
-            // 
-            this.roomDataGridViewTextBoxColumn.DataPropertyName = "Room";
-            this.roomDataGridViewTextBoxColumn.FillWeight = 25F;
-            this.roomDataGridViewTextBoxColumn.HeaderText = "Каб.";
-            this.roomDataGridViewTextBoxColumn.Name = "roomDataGridViewTextBoxColumn";
-            // 
-            // numDataGridViewTextBoxColumn
-            // 
-            this.numDataGridViewTextBoxColumn.DataPropertyName = "Num";
-            this.numDataGridViewTextBoxColumn.FillWeight = 40F;
-            this.numDataGridViewTextBoxColumn.HeaderText = "Инвент. №";
-            this.numDataGridViewTextBoxColumn.Name = "numDataGridViewTextBoxColumn";
-            // 
-            // FullName
-            // 
-            this.FullName.DataPropertyName = "FullName";
-            this.FullName.FillWeight = 140F;
-            this.FullName.HeaderText = "Компьютер";
-            this.FullName.Name = "FullName";
-            this.FullName.ReadOnly = true;
-            // 
-            // nameDataGridViewTextBoxColumn
-            // 
-            this.nameDataGridViewTextBoxColumn.DataPropertyName = "Name";
-            this.nameDataGridViewTextBoxColumn.FillWeight = 60F;
-            this.nameDataGridViewTextBoxColumn.HeaderText = "Имя компьютера";
-            this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
-            // 
-            // userDataGridViewTextBoxColumn
-            // 
-            this.userDataGridViewTextBoxColumn.DataPropertyName = "User";
-            this.userDataGridViewTextBoxColumn.FillWeight = 60F;
-            this.userDataGridViewTextBoxColumn.HeaderText = "Пользователь";
-            this.userDataGridViewTextBoxColumn.Name = "userDataGridViewTextBoxColumn";
-            // 
-            // oSIDDataGridViewTextBoxColumn
-            // 
-            this.oSIDDataGridViewTextBoxColumn.DataPropertyName = "OSID";
-            this.oSIDDataGridViewTextBoxColumn.DataSource = this.oSBindingSource;
-            this.oSIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.oSIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.oSIDDataGridViewTextBoxColumn.FillWeight = 80F;
-            this.oSIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.oSIDDataGridViewTextBoxColumn.HeaderText = "ОС";
-            this.oSIDDataGridViewTextBoxColumn.Name = "oSIDDataGridViewTextBoxColumn";
-            this.oSIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.oSIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.oSIDDataGridViewTextBoxColumn.ValueMember = "ID";
-            // 
-            // gUIDDataGridViewTextBoxColumn
-            // 
-            this.gUIDDataGridViewTextBoxColumn.DataPropertyName = "GUID";
-            this.gUIDDataGridViewTextBoxColumn.HeaderText = "GUID";
-            this.gUIDDataGridViewTextBoxColumn.Name = "gUIDDataGridViewTextBoxColumn";
-            this.gUIDDataGridViewTextBoxColumn.Visible = false;
-            // 
-            // deletedDataGridViewCheckBoxColumn
-            // 
-            this.deletedDataGridViewCheckBoxColumn.DataPropertyName = "Deleted";
-            this.deletedDataGridViewCheckBoxColumn.HeaderText = "Списан";
-            this.deletedDataGridViewCheckBoxColumn.Name = "deletedDataGridViewCheckBoxColumn";
-            this.deletedDataGridViewCheckBoxColumn.Visible = false;
-            // 
-            // rAMIDDataGridViewTextBoxColumn
-            // 
-            this.rAMIDDataGridViewTextBoxColumn.DataPropertyName = "RAMID";
-            this.rAMIDDataGridViewTextBoxColumn.DataSource = this.rAMBindingSource;
-            this.rAMIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.rAMIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.rAMIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.rAMIDDataGridViewTextBoxColumn.HeaderText = "ОЗУ";
-            this.rAMIDDataGridViewTextBoxColumn.Name = "rAMIDDataGridViewTextBoxColumn";
-            this.rAMIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.rAMIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.rAMIDDataGridViewTextBoxColumn.ValueMember = "ID";
-            this.rAMIDDataGridViewTextBoxColumn.Visible = false;
-            // 
-            // hDDIDDataGridViewTextBoxColumn
-            // 
-            this.hDDIDDataGridViewTextBoxColumn.DataPropertyName = "HDDID";
-            this.hDDIDDataGridViewTextBoxColumn.DataSource = this.hDDBindingSource;
-            this.hDDIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.hDDIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.hDDIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.hDDIDDataGridViewTextBoxColumn.HeaderText = "Жесткий диск";
-            this.hDDIDDataGridViewTextBoxColumn.Name = "hDDIDDataGridViewTextBoxColumn";
-            this.hDDIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.hDDIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.hDDIDDataGridViewTextBoxColumn.ValueMember = "ID";
-            this.hDDIDDataGridViewTextBoxColumn.Visible = false;
-            // 
-            // processorIDDataGridViewTextBoxColumn
-            // 
-            this.processorIDDataGridViewTextBoxColumn.DataPropertyName = "ProcessorID";
-            this.processorIDDataGridViewTextBoxColumn.DataSource = this.processorBindingSource;
-            this.processorIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.processorIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.processorIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.processorIDDataGridViewTextBoxColumn.HeaderText = "ЦП";
-            this.processorIDDataGridViewTextBoxColumn.Name = "processorIDDataGridViewTextBoxColumn";
-            this.processorIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.processorIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.processorIDDataGridViewTextBoxColumn.ValueMember = "ID";
-            this.processorIDDataGridViewTextBoxColumn.Visible = false;
-            // 
-            // MonitorGUID
-            // 
-            this.MonitorGUID.DataPropertyName = "MonitorGUID";
-            this.MonitorGUID.DataSource = this.monitorBindingSource;
-            this.MonitorGUID.DisplayMember = "FullName";
-            this.MonitorGUID.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.MonitorGUID.FillWeight = 60F;
-            this.MonitorGUID.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.MonitorGUID.HeaderText = "Монитор";
-            this.MonitorGUID.Name = "MonitorGUID";
-            this.MonitorGUID.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.MonitorGUID.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.MonitorGUID.ValueMember = "GUID";
-            // 
-            // PurchaseDate
-            // 
-            this.PurchaseDate.DataPropertyName = "PurchaseDate";
-            this.PurchaseDate.HeaderText = "Дата поступления";
-            this.PurchaseDate.Name = "PurchaseDate";
-            this.PurchaseDate.Visible = false;
-            // 
-            // WarantyDate
-            // 
-            this.WarantyDate.DataPropertyName = "WarantyDate";
-            this.WarantyDate.HeaderText = "Дата истечения гарантии";
-            this.WarantyDate.Name = "WarantyDate";
-            this.WarantyDate.Visible = false;
-            // 
-            // Description
-            // 
-            this.Description.DataPropertyName = "Description";
-            this.Description.HeaderText = "Описание";
-            this.Description.Name = "Description";
-            // 
-            // Rating
-            // 
-            this.Rating.DataPropertyName = "Rating";
-            this.Rating.FillWeight = 50F;
-            this.Rating.HeaderText = "Рейтинг";
-            this.Rating.Name = "Rating";
             // 
             // Form01
             // 
@@ -1999,6 +1999,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form01";
             this.Text = "Учет оборудования";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form01_FormClosing);
             this.contextMenuStripComputer.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.compEventDataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.eventBindingSource)).EndInit();

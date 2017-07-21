@@ -100,8 +100,9 @@ namespace nihe_computers2
 
         void DeviceType_StartEditDeviceType(object sender, BindingSource BS)
         {
-            Form02SimpleTable F = new Form02SimpleTable(BS);
-            F.Text = "Типы устройств";
+            Form02SimpleTable F = new Form02SimpleTable(BS) {
+                Text = "Типы устройств"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 C1.DS.AcceptChanges();
@@ -197,8 +198,9 @@ namespace nihe_computers2
         }
         void HDDType_StartEditHDDTypeTable(object sender, BindingSource BSHDDType)
         {
-            Form02SimpleTable F = new Form02SimpleTable(BSHDDType);
-            F.Text = "Типы жестких дисков";
+            Form02SimpleTable F = new Form02SimpleTable(BSHDDType) {
+                Text = "Типы жестких дисков"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 C1.DS.AcceptChanges();
@@ -212,8 +214,9 @@ namespace nihe_computers2
         }
         void ArchitectureType_StartEditArchitectureTypeTable(object sender, BindingSource BSArchitectureType)
         {
-            Form02SimpleTable F = new Form02SimpleTable(BSArchitectureType);
-            F.Text = "Разрядность операционной системы";
+            Form02SimpleTable F = new Form02SimpleTable(BSArchitectureType) {
+                Text = "Разрядность операционной системы"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 C1.DS.AcceptChanges();
@@ -222,8 +225,9 @@ namespace nihe_computers2
         }
         void OSName_StartEditOSNameTable(object sender, BindingSource BSOSName)
         {
-            Form02SimpleTable F = new Form02SimpleTable(BSOSName);
-            F.Text = "Тип операционной системы";
+            Form02SimpleTable F = new Form02SimpleTable(BSOSName) {
+                Text = "Тип операционной системы"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 C1.DS.AcceptChanges();
@@ -237,8 +241,9 @@ namespace nihe_computers2
         }
         void RAMType_StartEditRAMTypeTable(object sender, BindingSource BSRAMType)
         {
-            Form02SimpleTable F = new Form02SimpleTable(BSRAMType);
-            F.Text = "Типы оперативной памяти";
+            Form02SimpleTable F = new Form02SimpleTable(BSRAMType) {
+                Text = "Типы оперативной памяти"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 C1.DS.AcceptChanges();
@@ -247,8 +252,9 @@ namespace nihe_computers2
         }
         void PrintType_StartEditPrintTypeTable(object sender, BindingSource BSPrintType)
         {
-            Form02SimpleTable F = new Form02SimpleTable(BSPrintType);
-            F.Text = "Типы оргтехники";
+            Form02SimpleTable F = new Form02SimpleTable(BSPrintType) {
+                Text = "Типы оргтехники"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 C1.DS.AcceptChanges();
@@ -257,8 +263,9 @@ namespace nihe_computers2
         }
         void EventType_StartEditEventTypeTable(object sender, BindingSource BSEventType)
         {
-            Form02SimpleTable F = new Form02SimpleTable(BSEventType);
-            F.Text = "Типы событий";
+            Form02SimpleTable F = new Form02SimpleTable(BSEventType) {
+                Text = "Типы событий"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 C1.DS.AcceptChanges();
@@ -267,8 +274,9 @@ namespace nihe_computers2
         }
         void Department_StartEditDepartmentTable(object sender, BindingSource BSDepartment)
         {
-            Form02SimpleTable F = new Form02SimpleTable(BSDepartment);
-            F.Text = "Структурные подразделения";
+            Form02SimpleTable F = new Form02SimpleTable(BSDepartment) {
+                Text = "Структурные подразделения"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 C1.DS.AcceptChanges();
@@ -277,8 +285,9 @@ namespace nihe_computers2
         }
         void Socket_StartEditSocketTable(object sender, BindingSource BSSocket)
         {
-            Form02SimpleTable F = new Form02SimpleTable(BSSocket);
-            F.Text = "Типы разъёмов";
+            Form02SimpleTable F = new Form02SimpleTable(BSSocket) {
+                Text = "Типы разъёмов"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 C1.DS.AcceptChanges();
@@ -297,9 +306,10 @@ namespace nihe_computers2
         }
         void Vendor_StartEditVendorTable(object sender, BindingSource BSVendor)
         {
-            
-            Form02SimpleTable F = new Form02SimpleTable(BSVendor);
-            F.Text = "Производители";
+
+            Form02SimpleTable F = new Form02SimpleTable(BSVendor) {
+                Text = "Производители"
+            };
             F.ShowDialog();
             if (F.DialogResult == System.Windows.Forms.DialogResult.OK)
                 try
@@ -381,66 +391,66 @@ namespace nihe_computers2
             C1.Computer.ShowInfo(compDataGridView.DataSource as BindingSource, false);
         }
        
-        private void отделыToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ОтделыToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Department.Edit();
         }
-        private void типыЖДToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ТипыЖДToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.HDDType.Edit();
         }
-        private void жесткиеДискиToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ЖесткиеДискиToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.HDD.Edit();
         }
-        private void процессорыToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ПроцессорыToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Processor.Edit();
             compDataGridView.Refresh();
         }
-        private void производителиToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ПроизводителиToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Vendor.Edit();
         }
-        private void сокетыToolStripMenuItem_Click(object sender, EventArgs e)
+        private void СокетыToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Socket.Edit();
         }
-        private void типыОЗУToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ТипыОЗУToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.RAMType.Edit();
         }
-        private void оЗУToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void ОЗУToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             C1.RAM.Edit();
         }
-        private void разрядностьToolStripMenuItem_Click(object sender, EventArgs e)
+        private void РазрядностьToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.ArchitectureType.Edit();
         }
-        private void версияToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ВерсияToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.OSName.Edit();
         }
-        private void операционнаяСистемаToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void ОперационнаяСистемаToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             C1.OS.Edit();
         }
      
-        private void типыПринтеровToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ТипыПринтеровToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.PrintType.Edit();
         }
-        private void сохрнаитьToolStripMenuItem_Click(object sender, EventArgs e)
+        private void СохрнаитьToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.SaveData();
         }
 
-        private void saveButton_Click(object sender, EventArgs e)
+        private void SaveButton_Click(object sender, EventArgs e)
         {
             C1.SaveData();
         }
-        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        private void CheckBox2_CheckedChanged(object sender, EventArgs e)
         {
             if (checkBox2.Checked)
             {
@@ -474,7 +484,7 @@ namespace nihe_computers2
             }
 
         }
-        private void checkBox3_CheckedChanged(object sender, EventArgs e)
+        private void CheckBox3_CheckedChanged(object sender, EventArgs e)
         {
             if (checkBox3.Checked)
             {
@@ -502,7 +512,7 @@ namespace nihe_computers2
             }
         }
 
-        private void compDataGridView_MouseDown(object sender, MouseEventArgs e)
+        private void CompDataGridView_MouseDown(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Right)
             {
@@ -516,7 +526,7 @@ namespace nihe_computers2
                 }
             }
         }
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        private void CheckBox1_CheckedChanged(object sender, EventArgs e)
         {
             BindingSource BSComputerTemp = compDataGridView.DataSource as BindingSource;
             BindingSource BSMonitorTemp = monitorDataGridView.DataSource as BindingSource;
@@ -538,7 +548,7 @@ namespace nihe_computers2
         }
 
 
-        private void allouEditEventToolStripMenuItem_Click(object sender, EventArgs e)
+        private void AllouEditEventToolStripMenuItem_Click(object sender, EventArgs e)
         {
             compEventDataGridView.ReadOnly = (compEventDataGridView.ReadOnly == false);
             
@@ -550,12 +560,12 @@ namespace nihe_computers2
 
 
 
-        private void моделиМониторовToolStripMenuItem_Click(object sender, EventArgs e)
+        private void МоделиМониторовToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.MonitorModel.Edit();
         }
 
-        private void toolStripButton2_Click_1(object sender, EventArgs e)
+        private void ToolStripButton2_Click_1(object sender, EventArgs e)
         {
             C1.SaveData();
         }
@@ -567,7 +577,7 @@ namespace nihe_computers2
 
 
 
-        private void numberToolStripMenuItem_Click(object sender, EventArgs e)
+        private void NumberToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Monitor.ChangeNumber(monitorDataGridView.DataSource as BindingSource);
         }
@@ -582,7 +592,7 @@ namespace nihe_computers2
             C1.Monitor.ChangeDepartment(monitorDataGridView.DataSource as BindingSource);
         }
 
-        private void modelToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ModelToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Monitor.ChangeMonitorModel(monitorDataGridView.DataSource as BindingSource);
         }
@@ -592,7 +602,7 @@ namespace nihe_computers2
             C1.Monitor.ShowInfo(monitorDataGridView.DataSource as BindingSource, true);
         }
 
-        private void monitorToolStripMenuItem_Click(object sender, EventArgs e)
+        private void MonitorToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Computer.ChangeMonitor(compDataGridView.DataSource as BindingSource);
         }
@@ -602,47 +612,47 @@ namespace nihe_computers2
             C1.Computer.Move(compDataGridView.DataSource as BindingSource);
         }
 
-        private void infoToolStripMenuItem_Click(object sender, EventArgs e)
+        private void InfoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Monitor.ShowInfo(monitorDataGridView.DataSource as BindingSource, false);
         }
 
        
 
-        private void testToolStripMenuItem_Click(object sender, EventArgs e)
+        private void TestToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Computer.DisconectMonitor(compDataGridView.DataSource as BindingSource);
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
             C1.SimpleDevice.Add();
         }
 
-        private void computerToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ComputerToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Monitor.ChangeComputer(monitorDataGridView.DataSource as BindingSource);
         }
 
       
 
-        private void monitorDataGridView_DataError(object sender, DataGridViewDataErrorEventArgs e)
+        private void MonitorDataGridView_DataError(object sender, DataGridViewDataErrorEventArgs e)
         {
             MessageBox.Show(e.Exception.Message);
         }
 
-        private void monitorEventDataGridView_DataError(object sender, DataGridViewDataErrorEventArgs e)
+        private void MonitorEventDataGridView_DataError(object sender, DataGridViewDataErrorEventArgs e)
         {
             MessageBox.Show(e.Exception.Message);
         }
 
-        private void compDataGridView_DataError(object sender, DataGridViewDataErrorEventArgs e)
+        private void CompDataGridView_DataError(object sender, DataGridViewDataErrorEventArgs e)
         {
             MessageBox.Show(e.Exception.Message);
             MessageBox.Show(e.RowIndex.ToString());
         }
 
-        private void disconnectMonitorToolStripMenuItem_Click(object sender, EventArgs e)
+        private void DisconnectMonitorToolStripMenuItem_Click(object sender, EventArgs e)
         {
             try
             {
@@ -654,7 +664,7 @@ namespace nihe_computers2
             }
         }
 
-        private void отключитьОтКомпьютераToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ОтключитьОтКомпьютераToolStripMenuItem_Click(object sender, EventArgs e)
         {
             try
             {
@@ -667,7 +677,7 @@ namespace nihe_computers2
 
         }
 
-        private void monitorDataGridView_MouseDown(object sender, MouseEventArgs e)
+        private void MonitorDataGridView_MouseDown(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Right)
             {
@@ -682,7 +692,7 @@ namespace nihe_computers2
             }
         }
 
-        private void compDatagridView_formatting(int RowIndex, int ColumnIndex, List<string> SelectedUser, List<string> SelectedNumbers)
+        private void CompDatagridView_formatting(int RowIndex, int ColumnIndex, List<string> SelectedUser, List<string> SelectedNumbers)
         {
             DataGridViewCell cell = compDataGridView.Rows[RowIndex].Cells[ColumnIndex];
             Color cellColor = cell.Style.BackColor;
@@ -788,7 +798,7 @@ namespace nihe_computers2
             }
         }
 
-        private void monitorDatagridView_formatting(int RowIndex, int ColumnIndex, List<string> SelectedNumbers)
+        private void MonitorDatagridView_formatting(int RowIndex, int ColumnIndex, List<string> SelectedNumbers)
         {
             DataGridViewCell cell = monitorDataGridView.Rows[RowIndex].Cells[ColumnIndex];
 
@@ -916,24 +926,24 @@ namespace nihe_computers2
             return SelectedNumbers;
         }
 
-        private void compDataGridView_CellPainting(object sender, DataGridViewCellPaintingEventArgs e)
+        private void CompDataGridView_CellPainting(object sender, DataGridViewCellPaintingEventArgs e)
         {
             List<string> SelectedUser = FindDoublecatedUsers();
             List<string> SelectedNumbers = FindDoublecatedCompNumbers();
             if(e.RowIndex >=0)
-                compDatagridView_formatting(e.RowIndex, e.ColumnIndex, SelectedUser, SelectedNumbers);
+                CompDatagridView_formatting(e.RowIndex, e.ColumnIndex, SelectedUser, SelectedNumbers);
         }
-        private void monitorDataGridView_CellPainting(object sender, DataGridViewCellPaintingEventArgs e)
+        private void MonitorDataGridView_CellPainting(object sender, DataGridViewCellPaintingEventArgs e)
         {
             List<string> SelectedNumbers = FindDoublecatedMonitorNumbers();
             if (e.RowIndex >= 0)
-                monitorDatagridView_formatting(e.RowIndex, e.ColumnIndex, SelectedNumbers);
+                MonitorDatagridView_formatting(e.RowIndex, e.ColumnIndex, SelectedNumbers);
         }
 
 
 
 
-        private void simpleEditToolStripMenuItem_Click(object sender, EventArgs e)
+        private void SimpleEditToolStripMenuItem_Click(object sender, EventArgs e)
         {
             try
             {
@@ -945,7 +955,7 @@ namespace nihe_computers2
             }
         }
 
-        private void contextMenuStripComputer_Opening(object sender, CancelEventArgs e)
+        private void ContextMenuStripComputer_Opening(object sender, CancelEventArgs e)
         {
             if (compDataGridView.SelectedRows.Count < 1)
             {
@@ -957,12 +967,12 @@ namespace nihe_computers2
             }
         }
 
-        private void moveMonitorToolStripMenuItem_Click(object sender, EventArgs e)
+        private void MoveMonitorToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Monitor.Move(monitorDataGridView.DataSource as BindingSource);
         }
 
-        private void copyToolStripMenuItem_Click(object sender, EventArgs e)
+        private void CopyToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (this.compDataGridView
             .GetCellCount(DataGridViewElementStates.Selected) > 0)
@@ -992,27 +1002,27 @@ namespace nihe_computers2
             }
         }
 
-        private void compDataGridView_Enter(object sender, EventArgs e)
+        private void CompDataGridView_Enter(object sender, EventArgs e)
         {
             bindingNavigator1.BindingSource = C1.BSComp;
         }
 
-        private void compEventDataGridView_Enter(object sender, EventArgs e)
+        private void CompEventDataGridView_Enter(object sender, EventArgs e)
         {
             bindingNavigator1.BindingSource = C1.BSCompEvent;
         }
 
-        private void monitorDataGridView_Enter(object sender, EventArgs e)
+        private void MonitorDataGridView_Enter(object sender, EventArgs e)
         {
             bindingNavigator1.BindingSource = C1.BSMonitor;
         }
 
-        private void monitorEventDataGridView_Enter(object sender, EventArgs e)
+        private void MonitorEventDataGridView_Enter(object sender, EventArgs e)
         {
             bindingNavigator1.BindingSource = C1.BSMonitorEvent;
         }
 
-        private void descriptionToolStripMenuItem_Click(object sender, EventArgs e)
+        private void DescriptionToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.Computer.EditDescription(compDataGridView.DataSource as BindingSource);
         }
@@ -1022,12 +1032,12 @@ namespace nihe_computers2
             C1.SimpleDevice.Add();
         }
 
-        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        private void SaveToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.SaveData();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void TextBox1_TextChanged(object sender, EventArgs e)
         {
             switch (tabControl1.SelectedIndex)
             {
@@ -1044,29 +1054,45 @@ namespace nihe_computers2
            //
         }
 
-        private void changeNumberToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ChangeNumberToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.SimpleDevice.ChangeNumber(simpleDeviceDataGridView.DataSource as BindingSource);
         }
 
-        private void changeRoomToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ChangeRoomToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.SimpleDevice.ChangeRoom(simpleDeviceDataGridView.DataSource as BindingSource);
         }
 
-        private void changeUserToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ChangeUserToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.SimpleDevice.ChangeUser(simpleDeviceDataGridView.DataSource as BindingSource);
         }
 
-        private void changeDescriptionToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ChangeDescriptionToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.SimpleDevice.ChangeDescription(simpleDeviceDataGridView.DataSource as BindingSource);
         }
 
-        private void changeDepartmentToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ChangeDepartmentToolStripMenuItem_Click(object sender, EventArgs e)
         {
             C1.SimpleDevice.ChangeDepartment(simpleDeviceDataGridView.DataSource as BindingSource);
+        }
+
+        private void Form01_FormClosing(object sender, FormClosingEventArgs e) {
+            if (C1.DS.HasChanges()) {
+                DialogResult dr = MessageBox.Show("Сохранить изменения?",
+                    "Есть несохранённые изменения",
+                      MessageBoxButtons.YesNoCancel);
+                switch (dr) {
+                    case DialogResult.Yes:
+                        C1.SaveData();
+                        break;
+                    default:
+                        e.Cancel = true;
+                        break;
+                }
+            }
         }
     }
 
