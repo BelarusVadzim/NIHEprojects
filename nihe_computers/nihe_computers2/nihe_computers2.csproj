@@ -68,7 +68,6 @@
     <Compile Include="Dialogs.cs" />
     <Compile Include="DSNIHE.cs">
       <DependentUpon>DSNIHE.xsd</DependentUpon>
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="DSNIHE.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -237,6 +236,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
     <None Include="DSNIHE.xsc">
       <DependentUpon>DSNIHE.xsd</DependentUpon>
     </None>

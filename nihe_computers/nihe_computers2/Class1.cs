@@ -120,6 +120,8 @@ namespace nihe_computers2
             }
         }
 
+
+        // Вспомнить зачем этот метод
         private void IndexTables()
         {
             foreach (DataTable T in DS.Tables)
@@ -129,6 +131,28 @@ namespace nihe_computers2
             DS.AcceptChanges();
         }
 
+
+        //private void IndexTablesTEST() {
+        //    foreach (DataTable T in DS.Tables) {
+        //        IndexTable(T);
+        //    }
+
+        //    var test = from DataTable t in DS.Tables
+        //                where t.Columns.Contains("sort") & t.Rows.Count > 0
+        //                select t;
+
+        //    var ggg = from DataRow r in test
+                      
+
+
+        //    DS.AcceptChanges();
+
+
+
+
+        //}
+
+        // Вспомнить зачем этот метод
         private void IndexTable(DataTable T)
         {
             if (T.Columns.Contains("sort") & T.Rows.Count>0)
@@ -141,6 +165,26 @@ namespace nihe_computers2
                 }
             }
         }
-     
+
+        //private void IndexTableTEST(DataTable T) {
+        //    if (T.Columns.Contains("sort") & T.Rows.Count > 0) {
+        //        DataRow[] tempRows = T.Select("", "sort");
+
+        //        for (int i = 0; i < T.Rows.Count; i++) {
+        //            tempRows[i]["sort"] = i;
+        //        }
+        //    }
+
+        //    var test = (from DataColumn c in T.Columns
+        //                where c.
+        //                from c in seq2
+        //                where c.Field("Id") == s.Field("Id")
+        //                select (string)c["Class"]).
+        //                           SingleOrDefault();
+
+
+
+        //}
+
     }
 }
