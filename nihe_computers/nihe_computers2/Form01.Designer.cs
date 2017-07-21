@@ -37,12 +37,12 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
             this.contextMenuStripComputer = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.информацияToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
@@ -79,30 +79,12 @@
             this.eventBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.dS_NiheComputers = new nihe_computers2.DS_NiheComputers();
             this.compDataGridView = new nihe_computers2.DataGridViewEx();
-            this.iDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.departmentIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.departmentBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.roomDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.numDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.FullName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.userDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.oSIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.oSBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.gUIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.deletedDataGridViewCheckBoxColumn = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.rAMIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.rAMBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.hDDIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.hDDBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.processorIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.processorBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.MonitorGUID = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.monitorBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.PurchaseDate = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.WarantyDate = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Description = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Rating = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.compBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.eventTypeBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.vendorBindingSource = new System.Windows.Forms.BindingSource(this.components);
@@ -224,6 +206,24 @@
             this.fKDepartmentCompBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.monitorEventBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.iDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.departmentIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
+            this.roomDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.numDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FullName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.userDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.oSIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
+            this.gUIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.deletedDataGridViewCheckBoxColumn = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.rAMIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
+            this.hDDIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
+            this.processorIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
+            this.MonitorGUID = new System.Windows.Forms.DataGridViewComboBoxColumn();
+            this.PurchaseDate = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.WarantyDate = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Description = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Rating = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.contextMenuStripComputer.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.compEventDataGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.eventBindingSource)).BeginInit();
@@ -285,27 +285,27 @@
             this.descriptionToolStripMenuItem});
             this.contextMenuStripComputer.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.HorizontalStackWithOverflow;
             this.contextMenuStripComputer.Name = "contextMenuStrip1";
-            this.contextMenuStripComputer.Size = new System.Drawing.Size(213, 192);
+            this.contextMenuStripComputer.Size = new System.Drawing.Size(231, 192);
             this.contextMenuStripComputer.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStripComputer_Opening);
             // 
             // информацияToolStripMenuItem
             // 
             this.информацияToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("информацияToolStripMenuItem.Image")));
             this.информацияToolStripMenuItem.Name = "информацияToolStripMenuItem";
-            this.информацияToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
+            this.информацияToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.информацияToolStripMenuItem.Text = "Информация о компьютере";
             this.информацияToolStripMenuItem.Click += new System.EventHandler(this.ShowCompInfo);
             // 
             // toolStripSeparator3
             // 
             this.toolStripSeparator3.Name = "toolStripSeparator3";
-            this.toolStripSeparator3.Size = new System.Drawing.Size(209, 6);
+            this.toolStripSeparator3.Size = new System.Drawing.Size(227, 6);
             // 
             // изменитьToolStripMenuItem
             // 
             this.изменитьToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("изменитьToolStripMenuItem.Image")));
             this.изменитьToolStripMenuItem.Name = "изменитьToolStripMenuItem";
-            this.изменитьToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
+            this.изменитьToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.изменитьToolStripMenuItem.Text = "Создать новый компьютер";
             this.изменитьToolStripMenuItem.Click += new System.EventHandler(this.CreateNewComp);
             // 
@@ -313,7 +313,7 @@
             // 
             this.ComputerMoveToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("ComputerMoveToolStripMenuItem.Image")));
             this.ComputerMoveToolStripMenuItem.Name = "ComputerMoveToolStripMenuItem";
-            this.ComputerMoveToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
+            this.ComputerMoveToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.ComputerMoveToolStripMenuItem.Text = "Переместить компьютер";
             this.ComputerMoveToolStripMenuItem.Click += new System.EventHandler(this.ComputerMoveToolStripMenuItem_Click);
             // 
@@ -331,7 +331,7 @@
             this.simpleEditToolStripMenuItem});
             this.списатьToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("списатьToolStripMenuItem.Image")));
             this.списатьToolStripMenuItem.Name = "списатьToolStripMenuItem";
-            this.списатьToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
+            this.списатьToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.списатьToolStripMenuItem.Text = "Изменить параметры";
             // 
             // имяToolStripMenuItem
@@ -392,7 +392,7 @@
             // 
             this.процессорToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("процессорToolStripMenuItem.Image")));
             this.процессорToolStripMenuItem.Name = "процессорToolStripMenuItem";
-            this.процессорToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
+            this.процессорToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.процессорToolStripMenuItem.Text = "Процессор";
             this.процессорToolStripMenuItem.Click += new System.EventHandler(this.ChangeCompProcessor);
             // 
@@ -400,7 +400,7 @@
             // 
             this.оЗУToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("оЗУToolStripMenuItem.Image")));
             this.оЗУToolStripMenuItem.Name = "оЗУToolStripMenuItem";
-            this.оЗУToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
+            this.оЗУToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.оЗУToolStripMenuItem.Text = "ОЗУ";
             this.оЗУToolStripMenuItem.Click += new System.EventHandler(this.ChangeCompRAM);
             // 
@@ -408,7 +408,7 @@
             // 
             this.жесткийДискToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("жесткийДискToolStripMenuItem.Image")));
             this.жесткийДискToolStripMenuItem.Name = "жесткийДискToolStripMenuItem";
-            this.жесткийДискToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
+            this.жесткийДискToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.жесткийДискToolStripMenuItem.Text = "Жесткий диск";
             this.жесткийДискToolStripMenuItem.Click += new System.EventHandler(this.ChangeCompHDD);
             // 
@@ -416,7 +416,7 @@
             // 
             this.операционнаяСистемаToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("операционнаяСистемаToolStripMenuItem.Image")));
             this.операционнаяСистемаToolStripMenuItem.Name = "операционнаяСистемаToolStripMenuItem";
-            this.операционнаяСистемаToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
+            this.операционнаяСистемаToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.операционнаяСистемаToolStripMenuItem.Text = "Операционная система";
             this.операционнаяСистемаToolStripMenuItem.Click += new System.EventHandler(this.ChangeCompOS);
             // 
@@ -447,34 +447,34 @@
             // 
             this.создатьНовыйToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("создатьНовыйToolStripMenuItem.Image")));
             this.создатьНовыйToolStripMenuItem.Name = "создатьНовыйToolStripMenuItem";
-            this.создатьНовыйToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
+            this.создатьНовыйToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.создатьНовыйToolStripMenuItem.Text = "Списать компьютер";
             this.создатьНовыйToolStripMenuItem.Click += new System.EventHandler(this.RemoveComp);
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(209, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(227, 6);
             // 
             // сохрнаитьToolStripMenuItem
             // 
             this.сохрнаитьToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("сохрнаитьToolStripMenuItem.Image")));
             this.сохрнаитьToolStripMenuItem.Name = "сохрнаитьToolStripMenuItem";
-            this.сохрнаитьToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
+            this.сохрнаитьToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.сохрнаитьToolStripMenuItem.Text = "Сохрнаить";
             this.сохрнаитьToolStripMenuItem.Click += new System.EventHandler(this.сохрнаитьToolStripMenuItem_Click);
             // 
             // copyToolStripMenuItem
             // 
             this.copyToolStripMenuItem.Name = "copyToolStripMenuItem";
-            this.copyToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
+            this.copyToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.copyToolStripMenuItem.Text = "Copy";
             this.copyToolStripMenuItem.Click += new System.EventHandler(this.copyToolStripMenuItem_Click);
             // 
             // descriptionToolStripMenuItem
             // 
             this.descriptionToolStripMenuItem.Name = "descriptionToolStripMenuItem";
-            this.descriptionToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
+            this.descriptionToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.descriptionToolStripMenuItem.Text = "Description";
             this.descriptionToolStripMenuItem.Click += new System.EventHandler(this.descriptionToolStripMenuItem_Click);
             // 
@@ -659,204 +659,35 @@
             this.compDataGridView.Enter += new System.EventHandler(this.compDataGridView_Enter);
             this.compDataGridView.MouseDown += new System.Windows.Forms.MouseEventHandler(this.compDataGridView_MouseDown);
             // 
-            // iDDataGridViewTextBoxColumn
-            // 
-            this.iDDataGridViewTextBoxColumn.DataPropertyName = "ID";
-            this.iDDataGridViewTextBoxColumn.FillWeight = 30F;
-            this.iDDataGridViewTextBoxColumn.HeaderText = "ID";
-            this.iDDataGridViewTextBoxColumn.Name = "iDDataGridViewTextBoxColumn";
-            // 
-            // departmentIDDataGridViewTextBoxColumn
-            // 
-            this.departmentIDDataGridViewTextBoxColumn.DataPropertyName = "DepartmentID";
-            this.departmentIDDataGridViewTextBoxColumn.DataSource = this.departmentBindingSource;
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.departmentIDDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle7;
-            this.departmentIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.departmentIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.departmentIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.departmentIDDataGridViewTextBoxColumn.HeaderText = "Отдел";
-            this.departmentIDDataGridViewTextBoxColumn.Name = "departmentIDDataGridViewTextBoxColumn";
-            this.departmentIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.departmentIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.departmentIDDataGridViewTextBoxColumn.ValueMember = "ID";
-            // 
             // departmentBindingSource
             // 
             this.departmentBindingSource.DataMember = "Department";
             this.departmentBindingSource.DataSource = this.dS_NiheComputers;
-            // 
-            // roomDataGridViewTextBoxColumn
-            // 
-            this.roomDataGridViewTextBoxColumn.DataPropertyName = "Room";
-            this.roomDataGridViewTextBoxColumn.FillWeight = 25F;
-            this.roomDataGridViewTextBoxColumn.HeaderText = "Каб.";
-            this.roomDataGridViewTextBoxColumn.Name = "roomDataGridViewTextBoxColumn";
-            // 
-            // numDataGridViewTextBoxColumn
-            // 
-            this.numDataGridViewTextBoxColumn.DataPropertyName = "Num";
-            this.numDataGridViewTextBoxColumn.FillWeight = 40F;
-            this.numDataGridViewTextBoxColumn.HeaderText = "Инвент. №";
-            this.numDataGridViewTextBoxColumn.Name = "numDataGridViewTextBoxColumn";
-            // 
-            // FullName
-            // 
-            this.FullName.DataPropertyName = "FullName";
-            this.FullName.FillWeight = 140F;
-            this.FullName.HeaderText = "Компьютер";
-            this.FullName.Name = "FullName";
-            this.FullName.ReadOnly = true;
-            // 
-            // nameDataGridViewTextBoxColumn
-            // 
-            this.nameDataGridViewTextBoxColumn.DataPropertyName = "Name";
-            this.nameDataGridViewTextBoxColumn.FillWeight = 60F;
-            this.nameDataGridViewTextBoxColumn.HeaderText = "Имя компьютера";
-            this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
-            // 
-            // userDataGridViewTextBoxColumn
-            // 
-            this.userDataGridViewTextBoxColumn.DataPropertyName = "User";
-            this.userDataGridViewTextBoxColumn.FillWeight = 60F;
-            this.userDataGridViewTextBoxColumn.HeaderText = "Пользователь";
-            this.userDataGridViewTextBoxColumn.Name = "userDataGridViewTextBoxColumn";
-            // 
-            // oSIDDataGridViewTextBoxColumn
-            // 
-            this.oSIDDataGridViewTextBoxColumn.DataPropertyName = "OSID";
-            this.oSIDDataGridViewTextBoxColumn.DataSource = this.oSBindingSource;
-            this.oSIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.oSIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.oSIDDataGridViewTextBoxColumn.FillWeight = 80F;
-            this.oSIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.oSIDDataGridViewTextBoxColumn.HeaderText = "ОС";
-            this.oSIDDataGridViewTextBoxColumn.Name = "oSIDDataGridViewTextBoxColumn";
-            this.oSIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.oSIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.oSIDDataGridViewTextBoxColumn.ValueMember = "ID";
             // 
             // oSBindingSource
             // 
             this.oSBindingSource.DataMember = "OS";
             this.oSBindingSource.DataSource = this.dS_NiheComputers;
             // 
-            // gUIDDataGridViewTextBoxColumn
-            // 
-            this.gUIDDataGridViewTextBoxColumn.DataPropertyName = "GUID";
-            this.gUIDDataGridViewTextBoxColumn.HeaderText = "GUID";
-            this.gUIDDataGridViewTextBoxColumn.Name = "gUIDDataGridViewTextBoxColumn";
-            this.gUIDDataGridViewTextBoxColumn.Visible = false;
-            // 
-            // deletedDataGridViewCheckBoxColumn
-            // 
-            this.deletedDataGridViewCheckBoxColumn.DataPropertyName = "Deleted";
-            this.deletedDataGridViewCheckBoxColumn.HeaderText = "Списан";
-            this.deletedDataGridViewCheckBoxColumn.Name = "deletedDataGridViewCheckBoxColumn";
-            this.deletedDataGridViewCheckBoxColumn.Visible = false;
-            // 
-            // rAMIDDataGridViewTextBoxColumn
-            // 
-            this.rAMIDDataGridViewTextBoxColumn.DataPropertyName = "RAMID";
-            this.rAMIDDataGridViewTextBoxColumn.DataSource = this.rAMBindingSource;
-            this.rAMIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.rAMIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.rAMIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.rAMIDDataGridViewTextBoxColumn.HeaderText = "ОЗУ";
-            this.rAMIDDataGridViewTextBoxColumn.Name = "rAMIDDataGridViewTextBoxColumn";
-            this.rAMIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.rAMIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.rAMIDDataGridViewTextBoxColumn.ValueMember = "ID";
-            this.rAMIDDataGridViewTextBoxColumn.Visible = false;
-            // 
             // rAMBindingSource
             // 
             this.rAMBindingSource.DataMember = "RAM";
             this.rAMBindingSource.DataSource = this.dS_NiheComputers;
-            // 
-            // hDDIDDataGridViewTextBoxColumn
-            // 
-            this.hDDIDDataGridViewTextBoxColumn.DataPropertyName = "HDDID";
-            this.hDDIDDataGridViewTextBoxColumn.DataSource = this.hDDBindingSource;
-            this.hDDIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.hDDIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.hDDIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.hDDIDDataGridViewTextBoxColumn.HeaderText = "Жесткий диск";
-            this.hDDIDDataGridViewTextBoxColumn.Name = "hDDIDDataGridViewTextBoxColumn";
-            this.hDDIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.hDDIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.hDDIDDataGridViewTextBoxColumn.ValueMember = "ID";
-            this.hDDIDDataGridViewTextBoxColumn.Visible = false;
             // 
             // hDDBindingSource
             // 
             this.hDDBindingSource.DataMember = "HDD";
             this.hDDBindingSource.DataSource = this.dS_NiheComputers;
             // 
-            // processorIDDataGridViewTextBoxColumn
-            // 
-            this.processorIDDataGridViewTextBoxColumn.DataPropertyName = "ProcessorID";
-            this.processorIDDataGridViewTextBoxColumn.DataSource = this.processorBindingSource;
-            this.processorIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
-            this.processorIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.processorIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.processorIDDataGridViewTextBoxColumn.HeaderText = "ЦП";
-            this.processorIDDataGridViewTextBoxColumn.Name = "processorIDDataGridViewTextBoxColumn";
-            this.processorIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.processorIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.processorIDDataGridViewTextBoxColumn.ValueMember = "ID";
-            this.processorIDDataGridViewTextBoxColumn.Visible = false;
-            // 
             // processorBindingSource
             // 
             this.processorBindingSource.DataMember = "Processor";
             this.processorBindingSource.DataSource = this.dS_NiheComputers;
             // 
-            // MonitorGUID
-            // 
-            this.MonitorGUID.DataPropertyName = "MonitorGUID";
-            this.MonitorGUID.DataSource = this.monitorBindingSource;
-            this.MonitorGUID.DisplayMember = "FullName";
-            this.MonitorGUID.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.MonitorGUID.FillWeight = 60F;
-            this.MonitorGUID.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.MonitorGUID.HeaderText = "Монитор";
-            this.MonitorGUID.Name = "MonitorGUID";
-            this.MonitorGUID.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.MonitorGUID.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.MonitorGUID.ValueMember = "GUID";
-            // 
             // monitorBindingSource
             // 
             this.monitorBindingSource.DataMember = "Monitor";
             this.monitorBindingSource.DataSource = this.dS_NiheComputers;
-            // 
-            // PurchaseDate
-            // 
-            this.PurchaseDate.DataPropertyName = "PurchaseDate";
-            this.PurchaseDate.HeaderText = "Дата поступления";
-            this.PurchaseDate.Name = "PurchaseDate";
-            this.PurchaseDate.Visible = false;
-            // 
-            // WarantyDate
-            // 
-            this.WarantyDate.DataPropertyName = "WarantyDate";
-            this.WarantyDate.HeaderText = "Дата истечения гарантии";
-            this.WarantyDate.Name = "WarantyDate";
-            this.WarantyDate.Visible = false;
-            // 
-            // Description
-            // 
-            this.Description.DataPropertyName = "Description";
-            this.Description.HeaderText = "Описание";
-            this.Description.Name = "Description";
-            // 
-            // Rating
-            // 
-            this.Rating.DataPropertyName = "Rating";
-            this.Rating.FillWeight = 50F;
-            this.Rating.HeaderText = "Рэйтинг";
-            this.Rating.Name = "Rating";
             // 
             // compBindingSource
             // 
@@ -898,25 +729,25 @@
             this.выходToolStripMenuItem,
             this.saveToolStripMenuItem});
             this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
-            this.файлToolStripMenuItem.Size = new System.Drawing.Size(45, 20);
+            this.файлToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
             this.файлToolStripMenuItem.Text = "Файл";
             // 
             // выбратьФайлToolStripMenuItem
             // 
             this.выбратьФайлToolStripMenuItem.Name = "выбратьФайлToolStripMenuItem";
-            this.выбратьФайлToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.выбратьФайлToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
             this.выбратьФайлToolStripMenuItem.Text = "Выбрать файл";
             // 
             // выходToolStripMenuItem
             // 
             this.выходToolStripMenuItem.Name = "выходToolStripMenuItem";
-            this.выходToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.выходToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
             this.выходToolStripMenuItem.Text = "Выход";
             // 
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
             this.saveToolStripMenuItem.Text = "Save";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
@@ -929,20 +760,20 @@
             this.мониторыToolStripMenuItem,
             this.принтерыToolStripMenuItem});
             this.спраочникиToolStripMenuItem.Name = "спраочникиToolStripMenuItem";
-            this.спраочникиToolStripMenuItem.Size = new System.Drawing.Size(86, 20);
+            this.спраочникиToolStripMenuItem.Size = new System.Drawing.Size(94, 20);
             this.спраочникиToolStripMenuItem.Text = "Справочники";
             // 
             // отделыToolStripMenuItem
             // 
             this.отделыToolStripMenuItem.Name = "отделыToolStripMenuItem";
-            this.отделыToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
+            this.отделыToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.отделыToolStripMenuItem.Text = "Отделы";
             this.отделыToolStripMenuItem.Click += new System.EventHandler(this.отделыToolStripMenuItem_Click);
             // 
             // производителиToolStripMenuItem
             // 
             this.производителиToolStripMenuItem.Name = "производителиToolStripMenuItem";
-            this.производителиToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
+            this.производителиToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.производителиToolStripMenuItem.Text = "Производители";
             this.производителиToolStripMenuItem.Click += new System.EventHandler(this.производителиToolStripMenuItem_Click);
             // 
@@ -954,7 +785,7 @@
             this.оЗУToolStripMenuItem1,
             this.операционнаяСистемаToolStripMenuItem1});
             this.CompDevicesToolStripMenuItem.Name = "CompDevicesToolStripMenuItem";
-            this.CompDevicesToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
+            this.CompDevicesToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.CompDevicesToolStripMenuItem.Text = "Компьютер";
             // 
             // жесткиеДискиToolStripMenuItem
@@ -962,14 +793,14 @@
             this.жесткиеДискиToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.типыЖДToolStripMenuItem});
             this.жесткиеДискиToolStripMenuItem.Name = "жесткиеДискиToolStripMenuItem";
-            this.жесткиеДискиToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
+            this.жесткиеДискиToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.жесткиеДискиToolStripMenuItem.Text = "Жесткие диски";
             this.жесткиеДискиToolStripMenuItem.Click += new System.EventHandler(this.жесткиеДискиToolStripMenuItem_Click);
             // 
             // типыЖДToolStripMenuItem
             // 
             this.типыЖДToolStripMenuItem.Name = "типыЖДToolStripMenuItem";
-            this.типыЖДToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
+            this.типыЖДToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
             this.типыЖДToolStripMenuItem.Text = "Типы ЖД";
             this.типыЖДToolStripMenuItem.Click += new System.EventHandler(this.типыЖДToolStripMenuItem_Click);
             // 
@@ -978,14 +809,14 @@
             this.процессорыToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.сокетыToolStripMenuItem});
             this.процессорыToolStripMenuItem.Name = "процессорыToolStripMenuItem";
-            this.процессорыToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
+            this.процессорыToolStripMenuItem.Size = new System.Drawing.Size(204, 22);
             this.процессорыToolStripMenuItem.Text = "Процессоры";
             this.процессорыToolStripMenuItem.Click += new System.EventHandler(this.процессорыToolStripMenuItem_Click);
             // 
             // сокетыToolStripMenuItem
             // 
             this.сокетыToolStripMenuItem.Name = "сокетыToolStripMenuItem";
-            this.сокетыToolStripMenuItem.Size = new System.Drawing.Size(113, 22);
+            this.сокетыToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
             this.сокетыToolStripMenuItem.Text = "Сокеты";
             this.сокетыToolStripMenuItem.Click += new System.EventHandler(this.сокетыToolStripMenuItem_Click);
             // 
@@ -994,14 +825,14 @@
             this.оЗУToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.типыОЗУToolStripMenuItem});
             this.оЗУToolStripMenuItem1.Name = "оЗУToolStripMenuItem1";
-            this.оЗУToolStripMenuItem1.Size = new System.Drawing.Size(191, 22);
+            this.оЗУToolStripMenuItem1.Size = new System.Drawing.Size(204, 22);
             this.оЗУToolStripMenuItem1.Text = "ОЗУ";
             this.оЗУToolStripMenuItem1.Click += new System.EventHandler(this.оЗУToolStripMenuItem1_Click);
             // 
             // типыОЗУToolStripMenuItem
             // 
             this.типыОЗУToolStripMenuItem.Name = "типыОЗУToolStripMenuItem";
-            this.типыОЗУToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.типыОЗУToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
             this.типыОЗУToolStripMenuItem.Text = "Типы ОЗУ";
             this.типыОЗУToolStripMenuItem.Click += new System.EventHandler(this.типыОЗУToolStripMenuItem_Click);
             // 
@@ -1011,21 +842,21 @@
             this.разрядностьToolStripMenuItem,
             this.версияToolStripMenuItem});
             this.операционнаяСистемаToolStripMenuItem1.Name = "операционнаяСистемаToolStripMenuItem1";
-            this.операционнаяСистемаToolStripMenuItem1.Size = new System.Drawing.Size(191, 22);
+            this.операционнаяСистемаToolStripMenuItem1.Size = new System.Drawing.Size(204, 22);
             this.операционнаяСистемаToolStripMenuItem1.Text = "Операционная система";
             this.операционнаяСистемаToolStripMenuItem1.Click += new System.EventHandler(this.операционнаяСистемаToolStripMenuItem1_Click);
             // 
             // разрядностьToolStripMenuItem
             // 
             this.разрядностьToolStripMenuItem.Name = "разрядностьToolStripMenuItem";
-            this.разрядностьToolStripMenuItem.Size = new System.Drawing.Size(139, 22);
+            this.разрядностьToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.разрядностьToolStripMenuItem.Text = "Разрядность";
             this.разрядностьToolStripMenuItem.Click += new System.EventHandler(this.разрядностьToolStripMenuItem_Click);
             // 
             // версияToolStripMenuItem
             // 
             this.версияToolStripMenuItem.Name = "версияToolStripMenuItem";
-            this.версияToolStripMenuItem.Size = new System.Drawing.Size(139, 22);
+            this.версияToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.версияToolStripMenuItem.Text = "Версия";
             this.версияToolStripMenuItem.Click += new System.EventHandler(this.версияToolStripMenuItem_Click);
             // 
@@ -1034,13 +865,13 @@
             this.мониторыToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.моделиМониторовToolStripMenuItem});
             this.мониторыToolStripMenuItem.Name = "мониторыToolStripMenuItem";
-            this.мониторыToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
+            this.мониторыToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.мониторыToolStripMenuItem.Text = "Мониторы";
             // 
             // моделиМониторовToolStripMenuItem
             // 
             this.моделиМониторовToolStripMenuItem.Name = "моделиМониторовToolStripMenuItem";
-            this.моделиМониторовToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
+            this.моделиМониторовToolStripMenuItem.Size = new System.Drawing.Size(183, 22);
             this.моделиМониторовToolStripMenuItem.Text = "Модели мониторов";
             this.моделиМониторовToolStripMenuItem.Click += new System.EventHandler(this.моделиМониторовToolStripMenuItem_Click);
             // 
@@ -1049,14 +880,14 @@
             this.принтерыToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.типыПринтеровToolStripMenuItem});
             this.принтерыToolStripMenuItem.Name = "принтерыToolStripMenuItem";
-            this.принтерыToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
+            this.принтерыToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.принтерыToolStripMenuItem.Text = "Принтеры";
             // 
             // типыПринтеровToolStripMenuItem
             // 
             this.типыПринтеровToolStripMenuItem.Enabled = false;
             this.типыПринтеровToolStripMenuItem.Name = "типыПринтеровToolStripMenuItem";
-            this.типыПринтеровToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
+            this.типыПринтеровToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.типыПринтеровToolStripMenuItem.Text = "Типы принтеров";
             this.типыПринтеровToolStripMenuItem.Click += new System.EventHandler(this.типыПринтеровToolStripMenuItem_Click);
             // 
@@ -1065,21 +896,21 @@
             this.настройкиToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.AlloouEditEventsToolStripMenuItem});
             this.настройкиToolStripMenuItem.Name = "настройкиToolStripMenuItem";
-            this.настройкиToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
+            this.настройкиToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
             this.настройкиToolStripMenuItem.Text = "Настройки";
             // 
             // AlloouEditEventsToolStripMenuItem
             // 
             this.AlloouEditEventsToolStripMenuItem.Name = "AlloouEditEventsToolStripMenuItem";
-            this.AlloouEditEventsToolStripMenuItem.Size = new System.Drawing.Size(257, 22);
+            this.AlloouEditEventsToolStripMenuItem.Size = new System.Drawing.Size(267, 22);
             this.AlloouEditEventsToolStripMenuItem.Text = "Разрешить редактировать события";
             this.AlloouEditEventsToolStripMenuItem.Click += new System.EventHandler(this.allouEditEventToolStripMenuItem_Click);
             // 
             // tabControl1
             // 
-            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Controls.Add(this.tabPage2);
@@ -1301,26 +1132,26 @@
             this.RemoveToolStripMenuItem1,
             this.moveMonitorToolStripMenuItem});
             this.contextMenuStripMonitor.Name = "contextMenuStripMonitor";
-            this.contextMenuStripMonitor.Size = new System.Drawing.Size(274, 120);
+            this.contextMenuStripMonitor.Size = new System.Drawing.Size(291, 120);
             // 
             // infoToolStripMenuItem
             // 
             this.infoToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("infoToolStripMenuItem.Image")));
             this.infoToolStripMenuItem.Name = "infoToolStripMenuItem";
-            this.infoToolStripMenuItem.Size = new System.Drawing.Size(273, 22);
+            this.infoToolStripMenuItem.Size = new System.Drawing.Size(290, 22);
             this.infoToolStripMenuItem.Text = "Информация о мониторе";
             this.infoToolStripMenuItem.Click += new System.EventHandler(this.infoToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(270, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(287, 6);
             // 
             // CreateToolStripMenuItem
             // 
             this.CreateToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("CreateToolStripMenuItem.Image")));
             this.CreateToolStripMenuItem.Name = "CreateToolStripMenuItem";
-            this.CreateToolStripMenuItem.Size = new System.Drawing.Size(273, 22);
+            this.CreateToolStripMenuItem.Size = new System.Drawing.Size(290, 22);
             this.CreateToolStripMenuItem.Text = "Создать новый монитор";
             this.CreateToolStripMenuItem.Click += new System.EventHandler(this.CreateToolStripMenuItem_Click);
             // 
@@ -1335,14 +1166,14 @@
             this.отключитьОтКомпьютераToolStripMenuItem});
             this.EditToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("EditToolStripMenuItem1.Image")));
             this.EditToolStripMenuItem1.Name = "EditToolStripMenuItem1";
-            this.EditToolStripMenuItem1.Size = new System.Drawing.Size(273, 22);
+            this.EditToolStripMenuItem1.Size = new System.Drawing.Size(290, 22);
             this.EditToolStripMenuItem1.Text = "Редактирование параметров монитора";
             // 
             // RoomToolStripMenuItem
             // 
             this.RoomToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("RoomToolStripMenuItem.Image")));
             this.RoomToolStripMenuItem.Name = "RoomToolStripMenuItem";
-            this.RoomToolStripMenuItem.Size = new System.Drawing.Size(223, 22);
+            this.RoomToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.RoomToolStripMenuItem.Text = "Кабинет";
             this.RoomToolStripMenuItem.Click += new System.EventHandler(this.RoomToolStripMenuItem_Click);
             // 
@@ -1350,7 +1181,7 @@
             // 
             this.DepartmentToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("DepartmentToolStripMenuItem1.Image")));
             this.DepartmentToolStripMenuItem1.Name = "DepartmentToolStripMenuItem1";
-            this.DepartmentToolStripMenuItem1.Size = new System.Drawing.Size(223, 22);
+            this.DepartmentToolStripMenuItem1.Size = new System.Drawing.Size(230, 22);
             this.DepartmentToolStripMenuItem1.Text = "Структурное подразделение";
             this.DepartmentToolStripMenuItem1.Click += new System.EventHandler(this.DepartmentToolStripMenuItem1_Click);
             // 
@@ -1358,7 +1189,7 @@
             // 
             this.numberToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("numberToolStripMenuItem.Image")));
             this.numberToolStripMenuItem.Name = "numberToolStripMenuItem";
-            this.numberToolStripMenuItem.Size = new System.Drawing.Size(223, 22);
+            this.numberToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.numberToolStripMenuItem.Text = "Инвентарный номер";
             this.numberToolStripMenuItem.Click += new System.EventHandler(this.numberToolStripMenuItem_Click);
             // 
@@ -1366,7 +1197,7 @@
             // 
             this.modelToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("modelToolStripMenuItem.Image")));
             this.modelToolStripMenuItem.Name = "modelToolStripMenuItem";
-            this.modelToolStripMenuItem.Size = new System.Drawing.Size(223, 22);
+            this.modelToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.modelToolStripMenuItem.Text = "Модель";
             this.modelToolStripMenuItem.Click += new System.EventHandler(this.modelToolStripMenuItem_Click);
             // 
@@ -1374,7 +1205,7 @@
             // 
             this.computerToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("computerToolStripMenuItem.Image")));
             this.computerToolStripMenuItem.Name = "computerToolStripMenuItem";
-            this.computerToolStripMenuItem.Size = new System.Drawing.Size(223, 22);
+            this.computerToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.computerToolStripMenuItem.Text = "Подключить к компьютеру";
             this.computerToolStripMenuItem.Click += new System.EventHandler(this.computerToolStripMenuItem_Click);
             // 
@@ -1382,7 +1213,7 @@
             // 
             this.отключитьОтКомпьютераToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("отключитьОтКомпьютераToolStripMenuItem.Image")));
             this.отключитьОтКомпьютераToolStripMenuItem.Name = "отключитьОтКомпьютераToolStripMenuItem";
-            this.отключитьОтКомпьютераToolStripMenuItem.Size = new System.Drawing.Size(223, 22);
+            this.отключитьОтКомпьютераToolStripMenuItem.Size = new System.Drawing.Size(230, 22);
             this.отключитьОтКомпьютераToolStripMenuItem.Text = "Отключить от компьютера";
             this.отключитьОтКомпьютераToolStripMenuItem.Click += new System.EventHandler(this.отключитьОтКомпьютераToolStripMenuItem_Click);
             // 
@@ -1390,14 +1221,14 @@
             // 
             this.RemoveToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("RemoveToolStripMenuItem1.Image")));
             this.RemoveToolStripMenuItem1.Name = "RemoveToolStripMenuItem1";
-            this.RemoveToolStripMenuItem1.Size = new System.Drawing.Size(273, 22);
+            this.RemoveToolStripMenuItem1.Size = new System.Drawing.Size(290, 22);
             this.RemoveToolStripMenuItem1.Text = "Списать монитор";
             this.RemoveToolStripMenuItem1.Click += new System.EventHandler(this.RemoveToolStripMenuItem1_Click);
             // 
             // moveMonitorToolStripMenuItem
             // 
             this.moveMonitorToolStripMenuItem.Name = "moveMonitorToolStripMenuItem";
-            this.moveMonitorToolStripMenuItem.Size = new System.Drawing.Size(273, 22);
+            this.moveMonitorToolStripMenuItem.Size = new System.Drawing.Size(290, 22);
             this.moveMonitorToolStripMenuItem.Text = "MoveMonitor";
             this.moveMonitorToolStripMenuItem.Click += new System.EventHandler(this.moveMonitorToolStripMenuItem_Click);
             // 
@@ -1663,47 +1494,47 @@
             this.changeDescriptionToolStripMenuItem,
             this.changeDepartmentToolStripMenuItem});
             this.contextMenuSimpleDevices.Name = "contextMenuSimpleDevices";
-            this.contextMenuSimpleDevices.Size = new System.Drawing.Size(219, 136);
+            this.contextMenuSimpleDevices.Size = new System.Drawing.Size(228, 136);
             // 
             // AddSimpleDeviceMenuItem
             // 
             this.AddSimpleDeviceMenuItem.Name = "AddSimpleDeviceMenuItem";
-            this.AddSimpleDeviceMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.AddSimpleDeviceMenuItem.Size = new System.Drawing.Size(227, 22);
             this.AddSimpleDeviceMenuItem.Text = "Добавить новое устройство";
             this.AddSimpleDeviceMenuItem.Click += new System.EventHandler(this.AddSimpleDeviceMenuItem_Click);
             // 
             // changeNumberToolStripMenuItem
             // 
             this.changeNumberToolStripMenuItem.Name = "changeNumberToolStripMenuItem";
-            this.changeNumberToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.changeNumberToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeNumberToolStripMenuItem.Text = "ChangeNumber";
             this.changeNumberToolStripMenuItem.Click += new System.EventHandler(this.changeNumberToolStripMenuItem_Click);
             // 
             // changeRoomToolStripMenuItem
             // 
             this.changeRoomToolStripMenuItem.Name = "changeRoomToolStripMenuItem";
-            this.changeRoomToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.changeRoomToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeRoomToolStripMenuItem.Text = "ChangeRoom";
             this.changeRoomToolStripMenuItem.Click += new System.EventHandler(this.changeRoomToolStripMenuItem_Click);
             // 
             // changeUserToolStripMenuItem
             // 
             this.changeUserToolStripMenuItem.Name = "changeUserToolStripMenuItem";
-            this.changeUserToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.changeUserToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeUserToolStripMenuItem.Text = "ChangeUser";
             this.changeUserToolStripMenuItem.Click += new System.EventHandler(this.changeUserToolStripMenuItem_Click);
             // 
             // changeDescriptionToolStripMenuItem
             // 
             this.changeDescriptionToolStripMenuItem.Name = "changeDescriptionToolStripMenuItem";
-            this.changeDescriptionToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.changeDescriptionToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeDescriptionToolStripMenuItem.Text = "ChangeDescription";
             this.changeDescriptionToolStripMenuItem.Click += new System.EventHandler(this.changeDescriptionToolStripMenuItem_Click);
             // 
             // changeDepartmentToolStripMenuItem
             // 
             this.changeDepartmentToolStripMenuItem.Name = "changeDepartmentToolStripMenuItem";
-            this.changeDepartmentToolStripMenuItem.Size = new System.Drawing.Size(218, 22);
+            this.changeDepartmentToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
             this.changeDepartmentToolStripMenuItem.Text = "ChangeDepartment";
             this.changeDepartmentToolStripMenuItem.Click += new System.EventHandler(this.changeDepartmentToolStripMenuItem_Click);
             // 
@@ -1793,8 +1624,8 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.bindingNavigator1);
@@ -1858,7 +1689,7 @@
             // bindingNavigatorCountItem
             // 
             this.bindingNavigatorCountItem.Name = "bindingNavigatorCountItem";
-            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(45, 22);
+            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(43, 22);
             this.bindingNavigatorCountItem.Text = "для {0}";
             this.bindingNavigatorCountItem.ToolTipText = "Общее число элементов";
             // 
@@ -1986,6 +1817,175 @@
             // 
             this.monitorEventBindingSource.DataSource = this.dS_NiheComputers;
             this.monitorEventBindingSource.Position = 0;
+            // 
+            // iDDataGridViewTextBoxColumn
+            // 
+            this.iDDataGridViewTextBoxColumn.DataPropertyName = "ID";
+            this.iDDataGridViewTextBoxColumn.FillWeight = 30F;
+            this.iDDataGridViewTextBoxColumn.HeaderText = "ID";
+            this.iDDataGridViewTextBoxColumn.Name = "iDDataGridViewTextBoxColumn";
+            // 
+            // departmentIDDataGridViewTextBoxColumn
+            // 
+            this.departmentIDDataGridViewTextBoxColumn.DataPropertyName = "DepartmentID";
+            this.departmentIDDataGridViewTextBoxColumn.DataSource = this.departmentBindingSource;
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.departmentIDDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle7;
+            this.departmentIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.departmentIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.departmentIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.departmentIDDataGridViewTextBoxColumn.HeaderText = "Отдел";
+            this.departmentIDDataGridViewTextBoxColumn.Name = "departmentIDDataGridViewTextBoxColumn";
+            this.departmentIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.departmentIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.departmentIDDataGridViewTextBoxColumn.ValueMember = "ID";
+            // 
+            // roomDataGridViewTextBoxColumn
+            // 
+            this.roomDataGridViewTextBoxColumn.DataPropertyName = "Room";
+            this.roomDataGridViewTextBoxColumn.FillWeight = 25F;
+            this.roomDataGridViewTextBoxColumn.HeaderText = "Каб.";
+            this.roomDataGridViewTextBoxColumn.Name = "roomDataGridViewTextBoxColumn";
+            // 
+            // numDataGridViewTextBoxColumn
+            // 
+            this.numDataGridViewTextBoxColumn.DataPropertyName = "Num";
+            this.numDataGridViewTextBoxColumn.FillWeight = 40F;
+            this.numDataGridViewTextBoxColumn.HeaderText = "Инвент. №";
+            this.numDataGridViewTextBoxColumn.Name = "numDataGridViewTextBoxColumn";
+            // 
+            // FullName
+            // 
+            this.FullName.DataPropertyName = "FullName";
+            this.FullName.FillWeight = 140F;
+            this.FullName.HeaderText = "Компьютер";
+            this.FullName.Name = "FullName";
+            this.FullName.ReadOnly = true;
+            // 
+            // nameDataGridViewTextBoxColumn
+            // 
+            this.nameDataGridViewTextBoxColumn.DataPropertyName = "Name";
+            this.nameDataGridViewTextBoxColumn.FillWeight = 60F;
+            this.nameDataGridViewTextBoxColumn.HeaderText = "Имя компьютера";
+            this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
+            // 
+            // userDataGridViewTextBoxColumn
+            // 
+            this.userDataGridViewTextBoxColumn.DataPropertyName = "User";
+            this.userDataGridViewTextBoxColumn.FillWeight = 60F;
+            this.userDataGridViewTextBoxColumn.HeaderText = "Пользователь";
+            this.userDataGridViewTextBoxColumn.Name = "userDataGridViewTextBoxColumn";
+            // 
+            // oSIDDataGridViewTextBoxColumn
+            // 
+            this.oSIDDataGridViewTextBoxColumn.DataPropertyName = "OSID";
+            this.oSIDDataGridViewTextBoxColumn.DataSource = this.oSBindingSource;
+            this.oSIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.oSIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.oSIDDataGridViewTextBoxColumn.FillWeight = 80F;
+            this.oSIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.oSIDDataGridViewTextBoxColumn.HeaderText = "ОС";
+            this.oSIDDataGridViewTextBoxColumn.Name = "oSIDDataGridViewTextBoxColumn";
+            this.oSIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.oSIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.oSIDDataGridViewTextBoxColumn.ValueMember = "ID";
+            // 
+            // gUIDDataGridViewTextBoxColumn
+            // 
+            this.gUIDDataGridViewTextBoxColumn.DataPropertyName = "GUID";
+            this.gUIDDataGridViewTextBoxColumn.HeaderText = "GUID";
+            this.gUIDDataGridViewTextBoxColumn.Name = "gUIDDataGridViewTextBoxColumn";
+            this.gUIDDataGridViewTextBoxColumn.Visible = false;
+            // 
+            // deletedDataGridViewCheckBoxColumn
+            // 
+            this.deletedDataGridViewCheckBoxColumn.DataPropertyName = "Deleted";
+            this.deletedDataGridViewCheckBoxColumn.HeaderText = "Списан";
+            this.deletedDataGridViewCheckBoxColumn.Name = "deletedDataGridViewCheckBoxColumn";
+            this.deletedDataGridViewCheckBoxColumn.Visible = false;
+            // 
+            // rAMIDDataGridViewTextBoxColumn
+            // 
+            this.rAMIDDataGridViewTextBoxColumn.DataPropertyName = "RAMID";
+            this.rAMIDDataGridViewTextBoxColumn.DataSource = this.rAMBindingSource;
+            this.rAMIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.rAMIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.rAMIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.rAMIDDataGridViewTextBoxColumn.HeaderText = "ОЗУ";
+            this.rAMIDDataGridViewTextBoxColumn.Name = "rAMIDDataGridViewTextBoxColumn";
+            this.rAMIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.rAMIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.rAMIDDataGridViewTextBoxColumn.ValueMember = "ID";
+            this.rAMIDDataGridViewTextBoxColumn.Visible = false;
+            // 
+            // hDDIDDataGridViewTextBoxColumn
+            // 
+            this.hDDIDDataGridViewTextBoxColumn.DataPropertyName = "HDDID";
+            this.hDDIDDataGridViewTextBoxColumn.DataSource = this.hDDBindingSource;
+            this.hDDIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.hDDIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.hDDIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.hDDIDDataGridViewTextBoxColumn.HeaderText = "Жесткий диск";
+            this.hDDIDDataGridViewTextBoxColumn.Name = "hDDIDDataGridViewTextBoxColumn";
+            this.hDDIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.hDDIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.hDDIDDataGridViewTextBoxColumn.ValueMember = "ID";
+            this.hDDIDDataGridViewTextBoxColumn.Visible = false;
+            // 
+            // processorIDDataGridViewTextBoxColumn
+            // 
+            this.processorIDDataGridViewTextBoxColumn.DataPropertyName = "ProcessorID";
+            this.processorIDDataGridViewTextBoxColumn.DataSource = this.processorBindingSource;
+            this.processorIDDataGridViewTextBoxColumn.DisplayMember = "FullName";
+            this.processorIDDataGridViewTextBoxColumn.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.processorIDDataGridViewTextBoxColumn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.processorIDDataGridViewTextBoxColumn.HeaderText = "ЦП";
+            this.processorIDDataGridViewTextBoxColumn.Name = "processorIDDataGridViewTextBoxColumn";
+            this.processorIDDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.processorIDDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.processorIDDataGridViewTextBoxColumn.ValueMember = "ID";
+            this.processorIDDataGridViewTextBoxColumn.Visible = false;
+            // 
+            // MonitorGUID
+            // 
+            this.MonitorGUID.DataPropertyName = "MonitorGUID";
+            this.MonitorGUID.DataSource = this.monitorBindingSource;
+            this.MonitorGUID.DisplayMember = "FullName";
+            this.MonitorGUID.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.MonitorGUID.FillWeight = 60F;
+            this.MonitorGUID.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.MonitorGUID.HeaderText = "Монитор";
+            this.MonitorGUID.Name = "MonitorGUID";
+            this.MonitorGUID.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.MonitorGUID.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.MonitorGUID.ValueMember = "GUID";
+            // 
+            // PurchaseDate
+            // 
+            this.PurchaseDate.DataPropertyName = "PurchaseDate";
+            this.PurchaseDate.HeaderText = "Дата поступления";
+            this.PurchaseDate.Name = "PurchaseDate";
+            this.PurchaseDate.Visible = false;
+            // 
+            // WarantyDate
+            // 
+            this.WarantyDate.DataPropertyName = "WarantyDate";
+            this.WarantyDate.HeaderText = "Дата истечения гарантии";
+            this.WarantyDate.Name = "WarantyDate";
+            this.WarantyDate.Visible = false;
+            // 
+            // Description
+            // 
+            this.Description.DataPropertyName = "Description";
+            this.Description.HeaderText = "Описание";
+            this.Description.Name = "Description";
+            // 
+            // Rating
+            // 
+            this.Rating.DataPropertyName = "Rating";
+            this.Rating.FillWeight = 50F;
+            this.Rating.HeaderText = "Рейтинг";
+            this.Rating.Name = "Rating";
             // 
             // Form01
             // 
@@ -2171,24 +2171,6 @@
         private System.Windows.Forms.ToolStripButton bindingNavigatorMoveLastItem;
         private System.Windows.Forms.ToolStripSeparator bindingNavigatorSeparator2;
         private System.Windows.Forms.ToolStripMenuItem descriptionToolStripMenuItem;
-        private System.Windows.Forms.DataGridViewTextBoxColumn iDDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewComboBoxColumn departmentIDDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn roomDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn numDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn FullName;
-        private System.Windows.Forms.DataGridViewTextBoxColumn nameDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn userDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewComboBoxColumn oSIDDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn gUIDDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewCheckBoxColumn deletedDataGridViewCheckBoxColumn;
-        private System.Windows.Forms.DataGridViewComboBoxColumn rAMIDDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewComboBoxColumn hDDIDDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewComboBoxColumn processorIDDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewComboBoxColumn MonitorGUID;
-        private System.Windows.Forms.DataGridViewTextBoxColumn PurchaseDate;
-        private System.Windows.Forms.DataGridViewTextBoxColumn WarantyDate;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Description;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Rating;
         private System.Windows.Forms.TabPage tabPage4;
         private System.Windows.Forms.SplitContainer splitContainer3;
       //  private System.Windows.Forms.DataGridView simpleDeviceDataGridView;
@@ -2236,12 +2218,24 @@
         private System.Windows.Forms.DataGridViewCheckBoxColumn Deleted;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn26;
         private System.Windows.Forms.ToolStripMenuItem changeDepartmentToolStripMenuItem;
-
-      
-
-
-
-
+        private System.Windows.Forms.DataGridViewTextBoxColumn iDDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewComboBoxColumn departmentIDDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn roomDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn numDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn FullName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn nameDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn userDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewComboBoxColumn oSIDDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn gUIDDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewCheckBoxColumn deletedDataGridViewCheckBoxColumn;
+        private System.Windows.Forms.DataGridViewComboBoxColumn rAMIDDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewComboBoxColumn hDDIDDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewComboBoxColumn processorIDDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewComboBoxColumn MonitorGUID;
+        private System.Windows.Forms.DataGridViewTextBoxColumn PurchaseDate;
+        private System.Windows.Forms.DataGridViewTextBoxColumn WarantyDate;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Description;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Rating;
     }
 }
 
